@@ -1,0 +1,77 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region MN582066.1 1 43341
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2656722
+MN582066.1	Genbank	region	1	43341	.	+	.	ID=MN582066.1:1..43341;Dbxref=taxon:2656722;Is_circular=true;collection-date=22-May-2017;country=USA;environmental-sample=true;gbkey=Src;isolate=ctpQM7;isolation-source=Volusia Spring;metagenome-source=freshwater metagenome;metagenomic=true;mol_type=genomic DNA;note=genome binned from sequencing reads available in SRX5775735%2CSRX5775734%2CSRX5775731
+MN582066.1	Genbank	CDS	1	1161	.	+	0	ID=cds-QGH72431.1;Dbxref=NCBI_GP:QGH72431.1;Name=QGH72431.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72431.1;transl_table=11
+MN582066.1	Genbank	CDS	1168	2403	.	+	0	ID=cds-QGH72420.1;Dbxref=NCBI_GP:QGH72420.1;Name=QGH72420.1;gbkey=CDS;inference=similar to AA sequence:INSD:ANS02896.1;product=metalloendopeptidase;protein_id=QGH72420.1;transl_table=11
+MN582066.1	Genbank	CDS	2640	3242	.	+	0	ID=cds-QGH72421.1;Dbxref=NCBI_GP:QGH72421.1;Name=QGH72421.1;gbkey=CDS;inference=protein motif:CDD:133475;product=PGRP protein;protein_id=QGH72421.1;transl_table=11
+MN582066.1	Genbank	CDS	3268	3477	.	+	0	ID=cds-QGH72432.1;Dbxref=NCBI_GP:QGH72432.1;Name=QGH72432.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72432.1;transl_table=11
+MN582066.1	Genbank	CDS	3483	3584	.	+	0	ID=cds-QGH72433.1;Dbxref=NCBI_GP:QGH72433.1;Name=QGH72433.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72433.1;transl_table=11
+MN582066.1	Genbank	CDS	3604	3864	.	+	0	ID=cds-QGH72434.1;Dbxref=NCBI_GP:QGH72434.1;Name=QGH72434.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72434.1;transl_table=11
+MN582066.1	Genbank	CDS	3890	4048	.	+	0	ID=cds-QGH72435.1;Dbxref=NCBI_GP:QGH72435.1;Name=QGH72435.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72435.1;transl_table=11
+MN582066.1	Genbank	CDS	4159	4458	.	+	0	ID=cds-QGH72436.1;Dbxref=NCBI_GP:QGH72436.1;Name=QGH72436.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72436.1;transl_table=11
+MN582066.1	Genbank	CDS	4594	4851	.	-	0	ID=cds-QGH72437.1;Dbxref=NCBI_GP:QGH72437.1;Name=QGH72437.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72437.1;transl_table=11
+MN582066.1	Genbank	CDS	4871	5104	.	-	0	ID=cds-QGH72438.1;Dbxref=NCBI_GP:QGH72438.1;Name=QGH72438.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72438.1;transl_table=11
+MN582066.1	Genbank	CDS	5223	5537	.	-	0	ID=cds-QGH72439.1;Dbxref=NCBI_GP:QGH72439.1;Name=QGH72439.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72439.1;transl_table=11
+MN582066.1	Genbank	CDS	5537	6262	.	-	0	ID=cds-QGH72440.1;Dbxref=NCBI_GP:QGH72440.1;Name=QGH72440.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72440.1;transl_table=11
+MN582066.1	Genbank	CDS	6285	6692	.	-	0	ID=cds-QGH72441.1;Dbxref=NCBI_GP:QGH72441.1;Name=QGH72441.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72441.1;transl_table=11
+MN582066.1	Genbank	CDS	6701	7180	.	-	0	ID=cds-QGH72442.1;Dbxref=NCBI_GP:QGH72442.1;Name=QGH72442.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72442.1;transl_table=11
+MN582066.1	Genbank	CDS	7297	7704	.	-	0	ID=cds-QGH72443.1;Dbxref=NCBI_GP:QGH72443.1;Name=QGH72443.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72443.1;transl_table=11
+MN582066.1	Genbank	CDS	7753	7905	.	-	0	ID=cds-QGH72444.1;Dbxref=NCBI_GP:QGH72444.1;Name=QGH72444.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72444.1;transl_table=11
+MN582066.1	Genbank	CDS	7902	8831	.	-	0	ID=cds-QGH72426.1;Dbxref=NCBI_GP:QGH72426.1;Name=QGH72426.1;gbkey=CDS;inference=protein motif:PDB:3ME5_A;product=cytosine specific methyltransferase;protein_id=QGH72426.1;transl_table=11
+MN582066.1	Genbank	CDS	8832	8930	.	-	0	ID=cds-QGH72445.1;Dbxref=NCBI_GP:QGH72445.1;Name=QGH72445.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72445.1;transl_table=11
+MN582066.1	Genbank	CDS	9245	9679	.	-	0	ID=cds-QGH72446.1;Dbxref=NCBI_GP:QGH72446.1;Name=QGH72446.1;gbkey=CDS;inference=protein motif:PDB:1IIZ_A;product=lysozyme;protein_id=QGH72446.1;transl_table=11
+MN582066.1	Genbank	CDS	9748	10200	.	-	0	ID=cds-QGH72447.1;Dbxref=NCBI_GP:QGH72447.1;Name=QGH72447.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72447.1;transl_table=11
+MN582066.1	Genbank	CDS	10927	11268	.	-	0	ID=cds-QGH72448.1;Dbxref=NCBI_GP:QGH72448.1;Name=QGH72448.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72448.1;transl_table=11
+MN582066.1	Genbank	CDS	11287	11523	.	-	0	ID=cds-QGH72449.1;Dbxref=NCBI_GP:QGH72449.1;Name=QGH72449.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72449.1;transl_table=11
+MN582066.1	Genbank	CDS	11536	11796	.	-	0	ID=cds-QGH72450.1;Dbxref=NCBI_GP:QGH72450.1;Name=QGH72450.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72450.1;transl_table=11
+MN582066.1	Genbank	CDS	11825	11914	.	+	0	ID=cds-QGH72451.1;Dbxref=NCBI_GP:QGH72451.1;Name=QGH72451.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72451.1;transl_table=11
+MN582066.1	Genbank	CDS	12002	12694	.	+	0	ID=cds-QGH72452.1;Dbxref=NCBI_GP:QGH72452.1;Name=QGH72452.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72452.1;transl_table=11
+MN582066.1	Genbank	CDS	12685	13587	.	-	0	ID=cds-QGH72453.1;Dbxref=NCBI_GP:QGH72453.1;Name=QGH72453.1;gbkey=CDS;inference=protein motif:CDD:cd00841;product=metallophosphatase;protein_id=QGH72453.1;transl_table=11
+MN582066.1	Genbank	CDS	13610	14704	.	+	0	ID=cds-QGH72427.1;Dbxref=NCBI_GP:QGH72427.1;Name=QGH72427.1;gbkey=CDS;inference=protein motif:PDB:5U30_A;product=CRISPR-associated endonuclease C2c1;protein_id=QGH72427.1;transl_table=11
+MN582066.1	Genbank	CDS	14691	14831	.	+	0	ID=cds-QGH72454.1;Dbxref=NCBI_GP:QGH72454.1;Name=QGH72454.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72454.1;transl_table=11
+MN582066.1	Genbank	CDS	14849	15076	.	-	0	ID=cds-QGH72455.1;Dbxref=NCBI_GP:QGH72455.1;Name=QGH72455.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72455.1;transl_table=11
+MN582066.1	Genbank	CDS	15086	15244	.	-	0	ID=cds-QGH72456.1;Dbxref=NCBI_GP:QGH72456.1;Name=QGH72456.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72456.1;transl_table=11
+MN582066.1	Genbank	CDS	15266	15466	.	-	0	ID=cds-QGH72457.1;Dbxref=NCBI_GP:QGH72457.1;Name=QGH72457.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72457.1;transl_table=11
+MN582066.1	Genbank	CDS	15552	15710	.	-	0	ID=cds-QGH72458.1;Dbxref=NCBI_GP:QGH72458.1;Name=QGH72458.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72458.1;transl_table=11
+MN582066.1	Genbank	CDS	15747	16082	.	-	0	ID=cds-QGH72459.1;Dbxref=NCBI_GP:QGH72459.1;Name=QGH72459.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72459.1;transl_table=11
+MN582066.1	Genbank	CDS	16048	16758	.	-	0	ID=cds-QGH72422.1;Dbxref=NCBI_GP:QGH72422.1;Name=QGH72422.1;gbkey=CDS;inference=protein motif:CDD:225441;product=RecB family exonuclease;protein_id=QGH72422.1;transl_table=11
+MN582066.1	Genbank	CDS	16764	16889	.	-	0	ID=cds-QGH72460.1;Dbxref=NCBI_GP:QGH72460.1;Name=QGH72460.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72460.1;transl_table=11
+MN582066.1	Genbank	CDS	17045	17548	.	-	0	ID=cds-QGH72461.1;Dbxref=NCBI_GP:QGH72461.1;Name=QGH72461.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72461.1;transl_table=11
+MN582066.1	Genbank	CDS	17639	18877	.	-	0	ID=cds-QGH72428.1;Dbxref=NCBI_GP:QGH72428.1;Name=QGH72428.1;gbkey=CDS;inference=protein motif:PDB:1G60_B;product=adenine specific methyltransferase;protein_id=QGH72428.1;transl_table=11
+MN582066.1	Genbank	CDS	18889	19086	.	+	0	ID=cds-QGH72462.1;Dbxref=NCBI_GP:QGH72462.1;Name=QGH72462.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72462.1;transl_table=11
+MN582066.1	Genbank	CDS	19136	21175	.	+	0	ID=cds-QGH72429.1;Dbxref=NCBI_GP:QGH72429.1;Name=QGH72429.1;gbkey=CDS;inference=protein motif:PDB:3H25_A;product=replication protein B;protein_id=QGH72429.1;transl_table=11
+MN582066.1	Genbank	CDS	21232	21321	.	+	0	ID=cds-QGH72463.1;Dbxref=NCBI_GP:QGH72463.1;Name=QGH72463.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72463.1;transl_table=11
+MN582066.1	Genbank	CDS	21378	21521	.	-	0	ID=cds-QGH72464.1;Dbxref=NCBI_GP:QGH72464.1;Name=QGH72464.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72464.1;transl_table=11
+MN582066.1	Genbank	CDS	21537	21701	.	-	0	ID=cds-QGH72465.1;Dbxref=NCBI_GP:QGH72465.1;Name=QGH72465.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72465.1;transl_table=11
+MN582066.1	Genbank	CDS	21866	22198	.	-	0	ID=cds-QGH72423.1;Dbxref=NCBI_GP:QGH72423.1;Name=QGH72423.1;Note=HTH_XRE protein;gbkey=CDS;inference=protein motif:CDD:238045;product=hypothetical protein;protein_id=QGH72423.1;transl_table=11
+MN582066.1	Genbank	CDS	22185	22406	.	-	0	ID=cds-QGH72466.1;Dbxref=NCBI_GP:QGH72466.1;Name=QGH72466.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72466.1;transl_table=11
+MN582066.1	Genbank	CDS	22431	22553	.	-	0	ID=cds-QGH72467.1;Dbxref=NCBI_GP:QGH72467.1;Name=QGH72467.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72467.1;transl_table=11
+MN582066.1	Genbank	CDS	22550	22666	.	-	0	ID=cds-QGH72468.1;Dbxref=NCBI_GP:QGH72468.1;Name=QGH72468.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72468.1;transl_table=11
+MN582066.1	Genbank	CDS	22671	23045	.	-	0	ID=cds-QGH72469.1;Dbxref=NCBI_GP:QGH72469.1;Name=QGH72469.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72469.1;transl_table=11
+MN582066.1	Genbank	CDS	23146	23415	.	-	0	ID=cds-QGH72470.1;Dbxref=NCBI_GP:QGH72470.1;Name=QGH72470.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72470.1;transl_table=11
+MN582066.1	Genbank	CDS	23478	23735	.	-	0	ID=cds-QGH72471.1;Dbxref=NCBI_GP:QGH72471.1;Name=QGH72471.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72471.1;transl_table=11
+MN582066.1	Genbank	CDS	23743	23877	.	-	0	ID=cds-QGH72472.1;Dbxref=NCBI_GP:QGH72472.1;Name=QGH72472.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72472.1;transl_table=11
+MN582066.1	Genbank	CDS	23880	24332	.	+	0	ID=cds-QGH72424.1;Dbxref=NCBI_GP:QGH72424.1;Name=QGH72424.1;gbkey=CDS;inference=protein motif:CDD:318812;product=terminase;protein_id=QGH72424.1;transl_table=11
+MN582066.1	Genbank	CDS	24552	24800	.	+	0	ID=cds-QGH72473.1;Dbxref=NCBI_GP:QGH72473.1;Name=QGH72473.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72473.1;transl_table=11
+MN582066.1	Genbank	CDS	24804	25226	.	+	0	ID=cds-QGH72474.1;Dbxref=NCBI_GP:QGH72474.1;Name=QGH72474.1;gbkey=CDS;inference=protein motif:PDB:5IY7_L;product=DNA-directed RNA polymerase II subunit;protein_id=QGH72474.1;transl_table=11
+MN582066.1	Genbank	CDS	25223	25348	.	+	0	ID=cds-QGH72475.1;Dbxref=NCBI_GP:QGH72475.1;Name=QGH72475.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72475.1;transl_table=11
+MN582066.1	Genbank	CDS	25389	26885	.	+	0	ID=cds-QGH72430.1;Dbxref=NCBI_GP:QGH72430.1;Name=QGH72430.1;gbkey=CDS;inference=protein motif:PDB:4IDH_A;product=terminase;protein_id=QGH72430.1;transl_table=11
+MN582066.1	Genbank	CDS	26858	27016	.	+	0	ID=cds-QGH72476.1;Dbxref=NCBI_GP:QGH72476.1;Name=QGH72476.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72476.1;transl_table=11
+MN582066.1	Genbank	CDS	27067	29118	.	+	0	ID=cds-QGH72477.1;Dbxref=NCBI_GP:QGH72477.1;Name=QGH72477.1;gbkey=CDS;inference=protein motif:PDB:5GAI_G;product=portal protein;protein_id=QGH72477.1;transl_table=11
+MN582066.1	Genbank	CDS	29287	29547	.	+	0	ID=cds-QGH72478.1;Dbxref=NCBI_GP:QGH72478.1;Name=QGH72478.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72478.1;transl_table=11
+MN582066.1	Genbank	CDS	29709	30248	.	+	0	ID=cds-QGH72479.1;Dbxref=NCBI_GP:QGH72479.1;Name=QGH72479.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72479.1;transl_table=11
+MN582066.1	Genbank	CDS	30279	30683	.	+	0	ID=cds-QGH72480.1;Dbxref=NCBI_GP:QGH72480.1;Name=QGH72480.1;Note=hypothetical protein (DUF2190);gbkey=CDS;inference=protein motif:PFAM:PF09956.8;product=hypothetical protein;protein_id=QGH72480.1;transl_table=11
+MN582066.1	Genbank	CDS	30722	31744	.	+	0	ID=cds-QGH72481.1;Dbxref=NCBI_GP:QGH72481.1;Name=QGH72481.1;Note=major head subunit gpT;gbkey=CDS;inference=protein motif:PFAM:PF10124.8;product=major head subunit;protein_id=QGH72481.1;transl_table=11
+MN582066.1	Genbank	CDS	31772	32338	.	+	0	ID=cds-QGH72482.1;Dbxref=NCBI_GP:QGH72482.1;Name=QGH72482.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72482.1;transl_table=11
+MN582066.1	Genbank	CDS	32335	32913	.	-	0	ID=cds-QGH72483.1;Dbxref=NCBI_GP:QGH72483.1;Name=QGH72483.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72483.1;transl_table=11
+MN582066.1	Genbank	CDS	32964	33851	.	+	0	ID=cds-QGH72484.1;Dbxref=NCBI_GP:QGH72484.1;Name=QGH72484.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72484.1;transl_table=11
+MN582066.1	Genbank	CDS	33919	35613	.	+	0	ID=cds-QGH72485.1;Dbxref=NCBI_GP:QGH72485.1;Name=QGH72485.1;gbkey=CDS;inference=protein motif:PFAM:PF11134.7;product=stabilization protein;protein_id=QGH72485.1;transl_table=11
+MN582066.1	Genbank	CDS	35486	37150	.	+	0	ID=cds-QGH72486.1;Dbxref=NCBI_GP:QGH72486.1;Name=QGH72486.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72486.1;transl_table=11
+MN582066.1	Genbank	CDS	37150	39873	.	+	0	ID=cds-QGH72425.1;Dbxref=NCBI_GP:QGH72425.1;Name=QGH72425.1;Note=Peptidase family M23;gbkey=CDS;inference=protein motif:CDD:307612;product=peptidase family M23;protein_id=QGH72425.1;transl_table=11
+MN582066.1	Genbank	CDS	39873	42734	.	+	0	ID=cds-QGH72487.1;Dbxref=NCBI_GP:QGH72487.1;Name=QGH72487.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72487.1;transl_table=11
+MN582066.1	Genbank	CDS	42769	43077	.	-	0	ID=cds-QGH72488.1;Dbxref=NCBI_GP:QGH72488.1;Name=QGH72488.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72488.1;transl_table=11
+MN582066.1	Genbank	CDS	43167	43316	.	-	0	ID=cds-QGH72489.1;Dbxref=NCBI_GP:QGH72489.1;Name=QGH72489.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=QGH72489.1;transl_table=11
+

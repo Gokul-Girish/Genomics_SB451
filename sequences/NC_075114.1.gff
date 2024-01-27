@@ -1,0 +1,14 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_075114.1 1 3248
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10407
+NC_075114.1	RefSeq	region	1	3248	.	+	.	ID=NC_075114.1:1..3248;Dbxref=taxon:10407;Is_circular=true;gbkey=Src;genome=genomic;mol_type=genomic DNA;strain=IG29227
+NC_075114.1	RefSeq	gene	1374	1838	.	+	.	ID=gene-QJ942_gp3;Dbxref=GeneID:80519863;Name=X;gbkey=Gene;gene=X;gene_biotype=protein_coding;locus_tag=QJ942_gp3
+NC_075114.1	RefSeq	CDS	1374	1838	.	+	0	ID=cds-YP_010782960.1;Parent=gene-QJ942_gp3;Dbxref=GenBank:YP_010782960.1,GeneID:80519863;Name=YP_010782960.1;gbkey=CDS;gene=X;locus_tag=QJ942_gp3;product=X protein;protein_id=YP_010782960.1
+NC_075114.1	RefSeq	gene	1814	2488	.	+	.	ID=gene-QJ942_gp4;Dbxref=GeneID:80519864;Name=C;Note=precore/core protein%3B contains premature stop codons relative to other strains;gbkey=Gene;gene=C;gene_biotype=other;locus_tag=QJ942_gp4
+NC_075114.1	RefSeq	gene	2343	4871	.	+	.	ID=gene-QJ942_gp1;Dbxref=GeneID:80519866;Name=pol;gbkey=Gene;gene=pol;gene_biotype=protein_coding;locus_tag=QJ942_gp1
+NC_075114.1	RefSeq	CDS	2343	4871	.	+	0	ID=cds-YP_010782958.1;Parent=gene-QJ942_gp1;Dbxref=GenBank:YP_010782958.1,GeneID:80519866;Name=YP_010782958.1;gbkey=CDS;gene=pol;locus_tag=QJ942_gp1;product=polymerase;protein_id=YP_010782958.1
+NC_075114.1	RefSeq	gene	2884	4083	.	+	.	ID=gene-QJ942_gp2;Dbxref=GeneID:80519865;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=QJ942_gp2
+NC_075114.1	RefSeq	CDS	2884	4083	.	+	0	ID=cds-YP_010782959.1;Parent=gene-QJ942_gp2;Dbxref=GenBank:YP_010782959.1,GeneID:80519865;Name=YP_010782959.1;gbkey=CDS;gene=S;locus_tag=QJ942_gp2;product=preS1/preS2/HBsAg protein;protein_id=YP_010782959.1
+

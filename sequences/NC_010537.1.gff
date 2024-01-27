@@ -1,0 +1,153 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_010537.1 1 41172
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=512792
+NC_010537.1	RefSeq	region	1	41172	.	+	.	ID=NC_010537.1:1..41172;Dbxref=taxon:512792;gbkey=Src;genome=genomic;mol_type=genomic DNA;nat-host=Acidianus uzoniensis
+NC_010537.1	RefSeq	gene	397	645	.	-	.	ID=gene-AFV9_gp01;Dbxref=GeneID:6186726;Name=AFV9_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp01
+NC_010537.1	RefSeq	CDS	397	645	.	-	0	ID=cds-YP_001798519.1;Parent=gene-AFV9_gp01;Dbxref=GenBank:YP_001798519.1,GeneID:6186726;Name=YP_001798519.1;gbkey=CDS;locus_tag=AFV9_gp01;product=hypothetical protein;protein_id=YP_001798519.1;transl_table=11
+NC_010537.1	RefSeq	gene	649	1017	.	-	.	ID=gene-AFV9_gp02;Dbxref=GeneID:6186715;Name=AFV9_gp02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp02
+NC_010537.1	RefSeq	CDS	649	1017	.	-	0	ID=cds-YP_001798520.1;Parent=gene-AFV9_gp02;Dbxref=GenBank:YP_001798520.1,GeneID:6186715;Name=YP_001798520.1;gbkey=CDS;locus_tag=AFV9_gp02;product=hypothetical protein;protein_id=YP_001798520.1;transl_table=11
+NC_010537.1	RefSeq	gene	1020	1286	.	-	.	ID=gene-AFV9_gp03;Dbxref=GeneID:6186772;Name=AFV9_gp03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp03
+NC_010537.1	RefSeq	CDS	1020	1286	.	-	0	ID=cds-YP_001798521.1;Parent=gene-AFV9_gp03;Dbxref=GenBank:YP_001798521.1,GeneID:6186772;Name=YP_001798521.1;gbkey=CDS;locus_tag=AFV9_gp03;product=hypothetical protein;protein_id=YP_001798521.1;transl_table=11
+NC_010537.1	RefSeq	gene	1286	1480	.	-	.	ID=gene-AFV9_gp04;Dbxref=GeneID:6186707;Name=AFV9_gp04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp04
+NC_010537.1	RefSeq	CDS	1286	1480	.	-	0	ID=cds-YP_001798522.1;Parent=gene-AFV9_gp04;Dbxref=GenBank:YP_001798522.1,GeneID:6186707;Name=YP_001798522.1;gbkey=CDS;locus_tag=AFV9_gp04;product=hypothetical protein;protein_id=YP_001798522.1;transl_table=11
+NC_010537.1	RefSeq	gene	1485	1886	.	-	.	ID=gene-AFV9_gp05;Dbxref=GeneID:6186769;Name=AFV9_gp05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp05
+NC_010537.1	RefSeq	CDS	1485	1886	.	-	0	ID=cds-YP_001798523.1;Parent=gene-AFV9_gp05;Dbxref=GenBank:YP_001798523.1,GeneID:6186769;Name=YP_001798523.1;gbkey=CDS;locus_tag=AFV9_gp05;product=hypothetical protein;protein_id=YP_001798523.1;transl_table=11
+NC_010537.1	RefSeq	gene	1935	2183	.	-	.	ID=gene-AFV9_gp06;Dbxref=GeneID:6186758;Name=AFV9_gp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp06
+NC_010537.1	RefSeq	CDS	1935	2183	.	-	0	ID=cds-YP_001798524.1;Parent=gene-AFV9_gp06;Dbxref=GenBank:YP_001798524.1,GeneID:6186758;Name=YP_001798524.1;gbkey=CDS;locus_tag=AFV9_gp06;product=hypothetical protein;protein_id=YP_001798524.1;transl_table=11
+NC_010537.1	RefSeq	gene	2167	2451	.	-	.	ID=gene-AFV9_gp07;Dbxref=GeneID:6186768;Name=AFV9_gp07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp07
+NC_010537.1	RefSeq	CDS	2167	2451	.	-	0	ID=cds-YP_001798525.1;Parent=gene-AFV9_gp07;Dbxref=GenBank:YP_001798525.1,GeneID:6186768;Name=YP_001798525.1;gbkey=CDS;locus_tag=AFV9_gp07;product=transcriptional regulator;protein_id=YP_001798525.1;transl_table=11
+NC_010537.1	RefSeq	gene	2457	3068	.	-	.	ID=gene-AFV9_gp08;Dbxref=GeneID:6186700;Name=AFV9_gp08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp08
+NC_010537.1	RefSeq	CDS	2457	3068	.	-	0	ID=cds-YP_001798526.1;Parent=gene-AFV9_gp08;Dbxref=GenBank:YP_001798526.1,GeneID:6186700;Name=YP_001798526.1;gbkey=CDS;locus_tag=AFV9_gp08;product=CRISPR/Cas system associated;protein_id=YP_001798526.1;transl_table=11
+NC_010537.1	RefSeq	gene	3065	3328	.	-	.	ID=gene-AFV9_gp09;Dbxref=GeneID:6186765;Name=AFV9_gp09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp09
+NC_010537.1	RefSeq	CDS	3065	3328	.	-	0	ID=cds-YP_001798527.1;Parent=gene-AFV9_gp09;Dbxref=GenBank:YP_001798527.1,GeneID:6186765;Name=YP_001798527.1;gbkey=CDS;locus_tag=AFV9_gp09;product=hypothetical protein;protein_id=YP_001798527.1;transl_table=11
+NC_010537.1	RefSeq	gene	3341	5149	.	-	.	ID=gene-AFV9_gp10;Dbxref=GeneID:6186733;Name=AFV9_gp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp10
+NC_010537.1	RefSeq	CDS	3341	5149	.	-	0	ID=cds-YP_001798528.1;Parent=gene-AFV9_gp10;Dbxref=GenBank:YP_001798528.1,GeneID:6186733;Name=YP_001798528.1;gbkey=CDS;locus_tag=AFV9_gp10;product=Holliday junction branch migration helicase;protein_id=YP_001798528.1;transl_table=11
+NC_010537.1	RefSeq	gene	5118	5357	.	-	.	ID=gene-AFV9_gp11;Dbxref=GeneID:6186763;Name=AFV9_gp11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp11
+NC_010537.1	RefSeq	CDS	5118	5357	.	-	0	ID=cds-YP_001798529.1;Parent=gene-AFV9_gp11;Dbxref=GenBank:YP_001798529.1,GeneID:6186763;Name=YP_001798529.1;gbkey=CDS;locus_tag=AFV9_gp11;product=hypothetical protein;protein_id=YP_001798529.1;transl_table=11
+NC_010537.1	RefSeq	gene	5420	5629	.	+	.	ID=gene-AFV9_gp12;Dbxref=GeneID:6186716;Name=AFV9_gp12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp12
+NC_010537.1	RefSeq	CDS	5420	5629	.	+	0	ID=cds-YP_001798530.1;Parent=gene-AFV9_gp12;Dbxref=GenBank:YP_001798530.1,GeneID:6186716;Name=YP_001798530.1;gbkey=CDS;locus_tag=AFV9_gp12;product=virion structural protein;protein_id=YP_001798530.1;transl_table=11
+NC_010537.1	RefSeq	gene	5636	5989	.	-	.	ID=gene-AFV9_gp13;Dbxref=GeneID:6186751;Name=AFV9_gp13;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp13
+NC_010537.1	RefSeq	CDS	5636	5989	.	-	0	ID=cds-YP_001798531.1;Parent=gene-AFV9_gp13;Dbxref=GenBank:YP_001798531.1,GeneID:6186751;Name=YP_001798531.1;gbkey=CDS;locus_tag=AFV9_gp13;product=hypothetical protein;protein_id=YP_001798531.1;transl_table=11
+NC_010537.1	RefSeq	gene	6002	6574	.	-	.	ID=gene-AFV9_gp14;Dbxref=GeneID:6186760;Name=AFV9_gp14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp14
+NC_010537.1	RefSeq	CDS	6002	6574	.	-	0	ID=cds-YP_001798532.1;Parent=gene-AFV9_gp14;Dbxref=GenBank:YP_001798532.1,GeneID:6186760;Name=YP_001798532.1;gbkey=CDS;locus_tag=AFV9_gp14;product=hypothetical protein;protein_id=YP_001798532.1;transl_table=11
+NC_010537.1	RefSeq	gene	6568	6717	.	-	.	ID=gene-AFV9_gp15;Dbxref=GeneID:6186764;Name=AFV9_gp15;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp15
+NC_010537.1	RefSeq	CDS	6568	6717	.	-	0	ID=cds-YP_001798533.1;Parent=gene-AFV9_gp15;Dbxref=GenBank:YP_001798533.1,GeneID:6186764;Name=YP_001798533.1;gbkey=CDS;locus_tag=AFV9_gp15;product=hypothetical protein;protein_id=YP_001798533.1;transl_table=11
+NC_010537.1	RefSeq	gene	6822	7094	.	+	.	ID=gene-AFV9_gp16;Dbxref=GeneID:6186771;Name=AFV9_gp16;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp16
+NC_010537.1	RefSeq	CDS	6822	7094	.	+	0	ID=cds-YP_001798534.1;Parent=gene-AFV9_gp16;Dbxref=GenBank:YP_001798534.1,GeneID:6186771;Name=YP_001798534.1;gbkey=CDS;locus_tag=AFV9_gp16;product=hypothetical protein;protein_id=YP_001798534.1;transl_table=11
+NC_010537.1	RefSeq	gene	7230	7484	.	-	.	ID=gene-AFV9_gp17;Dbxref=GeneID:6186770;Name=AFV9_gp17;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp17
+NC_010537.1	RefSeq	CDS	7230	7484	.	-	0	ID=cds-YP_001798535.1;Parent=gene-AFV9_gp17;Dbxref=GenBank:YP_001798535.1,GeneID:6186770;Name=YP_001798535.1;gbkey=CDS;locus_tag=AFV9_gp17;product=hypothetical protein;protein_id=YP_001798535.1;transl_table=11
+NC_010537.1	RefSeq	gene	7597	7857	.	-	.	ID=gene-AFV9_gp18;Dbxref=GeneID:6186748;Name=AFV9_gp18;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp18
+NC_010537.1	RefSeq	CDS	7597	7857	.	-	0	ID=cds-YP_001798536.1;Parent=gene-AFV9_gp18;Dbxref=GenBank:YP_001798536.1,GeneID:6186748;Name=YP_001798536.1;gbkey=CDS;locus_tag=AFV9_gp18;product=hypothetical protein;protein_id=YP_001798536.1;transl_table=11
+NC_010537.1	RefSeq	gene	8002	8298	.	-	.	ID=gene-AFV9_gp19;Dbxref=GeneID:6186755;Name=AFV9_gp19;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp19
+NC_010537.1	RefSeq	CDS	8002	8298	.	-	0	ID=cds-YP_001798537.1;Parent=gene-AFV9_gp19;Dbxref=GenBank:YP_001798537.1,GeneID:6186755;Name=YP_001798537.1;gbkey=CDS;locus_tag=AFV9_gp19;product=hypothetical protein;protein_id=YP_001798537.1;transl_table=11
+NC_010537.1	RefSeq	gene	8308	8466	.	-	.	ID=gene-AFV9_gp20;Dbxref=GeneID:6186724;Name=AFV9_gp20;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp20
+NC_010537.1	RefSeq	CDS	8308	8466	.	-	0	ID=cds-YP_001798538.1;Parent=gene-AFV9_gp20;Dbxref=GenBank:YP_001798538.1,GeneID:6186724;Name=YP_001798538.1;gbkey=CDS;locus_tag=AFV9_gp20;product=hypothetical protein;protein_id=YP_001798538.1;transl_table=11
+NC_010537.1	RefSeq	gene	9220	10905	.	-	.	ID=gene-AFV9_gp21;Dbxref=GeneID:6186727;Name=AFV9_gp21;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp21
+NC_010537.1	RefSeq	CDS	9220	10905	.	-	0	ID=cds-YP_001798539.1;Parent=gene-AFV9_gp21;Dbxref=GenBank:YP_001798539.1,GeneID:6186727;Name=YP_001798539.1;gbkey=CDS;locus_tag=AFV9_gp21;product=putative helicase;protein_id=YP_001798539.1;transl_table=11
+NC_010537.1	RefSeq	gene	10949	12010	.	-	.	ID=gene-AFV9_gp22;Dbxref=GeneID:6186743;Name=AFV9_gp22;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp22
+NC_010537.1	RefSeq	CDS	10949	12010	.	-	0	ID=cds-YP_001798540.1;Parent=gene-AFV9_gp22;Dbxref=GenBank:YP_001798540.1,GeneID:6186743;Name=YP_001798540.1;gbkey=CDS;locus_tag=AFV9_gp22;product=hypothetical protein;protein_id=YP_001798540.1;transl_table=11
+NC_010537.1	RefSeq	gene	12073	12426	.	+	.	ID=gene-AFV9_gp23;Dbxref=GeneID:6186761;Name=AFV9_gp23;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp23
+NC_010537.1	RefSeq	CDS	12073	12426	.	+	0	ID=cds-YP_001798541.1;Parent=gene-AFV9_gp23;Dbxref=GenBank:YP_001798541.1,GeneID:6186761;Name=YP_001798541.1;gbkey=CDS;locus_tag=AFV9_gp23;product=hypothetical protein;protein_id=YP_001798541.1;transl_table=11
+NC_010537.1	RefSeq	gene	12433	12717	.	-	.	ID=gene-AFV9_gp24;Dbxref=GeneID:6186706;Name=AFV9_gp24;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp24
+NC_010537.1	RefSeq	CDS	12433	12717	.	-	0	ID=cds-YP_001798542.1;Parent=gene-AFV9_gp24;Dbxref=GenBank:YP_001798542.1,GeneID:6186706;Name=YP_001798542.1;gbkey=CDS;locus_tag=AFV9_gp24;product=hypothetical protein;protein_id=YP_001798542.1;transl_table=11
+NC_010537.1	RefSeq	gene	12802	13170	.	+	.	ID=gene-AFV9_gp25;Dbxref=GeneID:6186762;Name=AFV9_gp25;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp25
+NC_010537.1	RefSeq	CDS	12802	13170	.	+	0	ID=cds-YP_001798543.1;Parent=gene-AFV9_gp25;Dbxref=GenBank:YP_001798543.1,GeneID:6186762;Name=YP_001798543.1;gbkey=CDS;locus_tag=AFV9_gp25;product=hypothetical protein;protein_id=YP_001798543.1;transl_table=11
+NC_010537.1	RefSeq	gene	13167	13469	.	-	.	ID=gene-AFV9_gp26;Dbxref=GeneID:6186702;Name=AFV9_gp26;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp26
+NC_010537.1	RefSeq	CDS	13167	13469	.	-	0	ID=cds-YP_001798544.1;Parent=gene-AFV9_gp26;Dbxref=GenBank:YP_001798544.1,GeneID:6186702;Name=YP_001798544.1;gbkey=CDS;locus_tag=AFV9_gp26;product=transcriptional regulator;protein_id=YP_001798544.1;transl_table=11
+NC_010537.1	RefSeq	gene	13558	13848	.	+	.	ID=gene-AFV9_gp27;Dbxref=GeneID:6186736;Name=AFV9_gp27;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp27
+NC_010537.1	RefSeq	CDS	13558	13848	.	+	0	ID=cds-YP_001798545.1;Parent=gene-AFV9_gp27;Dbxref=GenBank:YP_001798545.1,GeneID:6186736;Name=YP_001798545.1;gbkey=CDS;locus_tag=AFV9_gp27;product=transcriptional regulator;protein_id=YP_001798545.1;transl_table=11
+NC_010537.1	RefSeq	gene	13842	14600	.	+	.	ID=gene-AFV9_gp28;Dbxref=GeneID:6186744;Name=AFV9_gp28;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp28
+NC_010537.1	RefSeq	CDS	13842	14600	.	+	0	ID=cds-YP_001798546.1;Parent=gene-AFV9_gp28;Dbxref=GenBank:YP_001798546.1,GeneID:6186744;Name=YP_001798546.1;gbkey=CDS;locus_tag=AFV9_gp28;product=hypothetical protein;protein_id=YP_001798546.1;transl_table=11
+NC_010537.1	RefSeq	gene	14861	15229	.	+	.	ID=gene-AFV9_gp29;Dbxref=GeneID:6186759;Name=AFV9_gp29;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp29
+NC_010537.1	RefSeq	CDS	14861	15229	.	+	0	ID=cds-YP_001798547.1;Parent=gene-AFV9_gp29;Dbxref=GenBank:YP_001798547.1,GeneID:6186759;Name=YP_001798547.1;gbkey=CDS;locus_tag=AFV9_gp29;product=hypothetical protein;protein_id=YP_001798547.1;transl_table=11
+NC_010537.1	RefSeq	gene	15236	15631	.	-	.	ID=gene-AFV9_gp30;Dbxref=GeneID:6186701;Name=AFV9_gp30;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp30
+NC_010537.1	RefSeq	CDS	15236	15631	.	-	0	ID=cds-YP_001798548.1;Parent=gene-AFV9_gp30;Dbxref=GenBank:YP_001798548.1,GeneID:6186701;Name=YP_001798548.1;gbkey=CDS;locus_tag=AFV9_gp30;product=hypothetical protein;protein_id=YP_001798548.1;transl_table=11
+NC_010537.1	RefSeq	gene	15624	16160	.	-	.	ID=gene-AFV9_gp31;Dbxref=GeneID:6186705;Name=AFV9_gp31;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp31
+NC_010537.1	RefSeq	CDS	15624	16160	.	-	0	ID=cds-YP_001798549.1;Parent=gene-AFV9_gp31;Dbxref=GenBank:YP_001798549.1,GeneID:6186705;Name=YP_001798549.1;gbkey=CDS;locus_tag=AFV9_gp31;product=hypothetical protein;protein_id=YP_001798549.1;transl_table=11
+NC_010537.1	RefSeq	gene	16198	16701	.	-	.	ID=gene-AFV9_gp32;Dbxref=GeneID:6186713;Name=AFV9_gp32;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp32
+NC_010537.1	RefSeq	CDS	16198	16701	.	-	0	ID=cds-YP_001798550.1;Parent=gene-AFV9_gp32;Dbxref=GenBank:YP_001798550.1,GeneID:6186713;Name=YP_001798550.1;gbkey=CDS;locus_tag=AFV9_gp32;product=virion structural protein;protein_id=YP_001798550.1;transl_table=11
+NC_010537.1	RefSeq	gene	16713	17327	.	-	.	ID=gene-AFV9_gp33;Dbxref=GeneID:6186704;Name=AFV9_gp33;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp33
+NC_010537.1	RefSeq	CDS	16713	17327	.	-	0	ID=cds-YP_001798551.1;Parent=gene-AFV9_gp33;Dbxref=GenBank:YP_001798551.1,GeneID:6186704;Name=YP_001798551.1;gbkey=CDS;locus_tag=AFV9_gp33;product=virion structural protein;protein_id=YP_001798551.1;transl_table=11
+NC_010537.1	RefSeq	gene	17387	17680	.	+	.	ID=gene-AFV9_gp34;Dbxref=GeneID:6186735;Name=AFV9_gp34;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp34
+NC_010537.1	RefSeq	CDS	17387	17680	.	+	0	ID=cds-YP_001798552.1;Parent=gene-AFV9_gp34;Dbxref=GenBank:YP_001798552.1,GeneID:6186735;Name=YP_001798552.1;gbkey=CDS;locus_tag=AFV9_gp34;product=hypothetical protein;protein_id=YP_001798552.1;transl_table=11
+NC_010537.1	RefSeq	gene	17636	17860	.	-	.	ID=gene-AFV9_gp35;Dbxref=GeneID:6186756;Name=AFV9_gp35;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp35
+NC_010537.1	RefSeq	CDS	17636	17860	.	-	0	ID=cds-YP_001798553.1;Parent=gene-AFV9_gp35;Dbxref=GenBank:YP_001798553.1,GeneID:6186756;Name=YP_001798553.1;gbkey=CDS;locus_tag=AFV9_gp35;product=hypothetical protein;protein_id=YP_001798553.1;transl_table=11
+NC_010537.1	RefSeq	gene	17857	18345	.	-	.	ID=gene-AFV9_gp36;Dbxref=GeneID:6186729;Name=AFV9_gp36;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp36
+NC_010537.1	RefSeq	CDS	17857	18345	.	-	0	ID=cds-YP_001798554.1;Parent=gene-AFV9_gp36;Dbxref=GenBank:YP_001798554.1,GeneID:6186729;Name=YP_001798554.1;gbkey=CDS;locus_tag=AFV9_gp36;product=virion structural protein;protein_id=YP_001798554.1;transl_table=11
+NC_010537.1	RefSeq	gene	18350	18994	.	-	.	ID=gene-AFV9_gp37;Dbxref=GeneID:6186703;Name=AFV9_gp37;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp37
+NC_010537.1	RefSeq	CDS	18350	18994	.	-	0	ID=cds-YP_001798555.1;Parent=gene-AFV9_gp37;Dbxref=GenBank:YP_001798555.1,GeneID:6186703;Name=YP_001798555.1;gbkey=CDS;locus_tag=AFV9_gp37;product=virion structural protein;protein_id=YP_001798555.1;transl_table=11
+NC_010537.1	RefSeq	gene	18963	19814	.	-	.	ID=gene-AFV9_gp38;Dbxref=GeneID:6186766;Name=AFV9_gp38;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp38
+NC_010537.1	RefSeq	CDS	18963	19814	.	-	0	ID=cds-YP_001798556.1;Parent=gene-AFV9_gp38;Dbxref=GenBank:YP_001798556.1,GeneID:6186766;Name=YP_001798556.1;gbkey=CDS;locus_tag=AFV9_gp38;product=glycosyltransferase;protein_id=YP_001798556.1;transl_table=11
+NC_010537.1	RefSeq	gene	19807	20463	.	-	.	ID=gene-AFV9_gp39;Dbxref=GeneID:6186767;Name=AFV9_gp39;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp39
+NC_010537.1	RefSeq	CDS	19807	20463	.	-	0	ID=cds-YP_001798557.1;Parent=gene-AFV9_gp39;Dbxref=GenBank:YP_001798557.1,GeneID:6186767;Name=YP_001798557.1;gbkey=CDS;locus_tag=AFV9_gp39;product=hypothetical protein;protein_id=YP_001798557.1;transl_table=11
+NC_010537.1	RefSeq	gene	20444	21253	.	-	.	ID=gene-AFV9_gp40;Dbxref=GeneID:6186757;Name=AFV9_gp40;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp40
+NC_010537.1	RefSeq	CDS	20444	21253	.	-	0	ID=cds-YP_001798558.1;Parent=gene-AFV9_gp40;Dbxref=GenBank:YP_001798558.1,GeneID:6186757;Name=YP_001798558.1;gbkey=CDS;locus_tag=AFV9_gp40;product=virion structural protein;protein_id=YP_001798558.1;transl_table=11
+NC_010537.1	RefSeq	gene	21377	21595	.	+	.	ID=gene-AFV9_gp41;Dbxref=GeneID:6186754;Name=AFV9_gp41;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp41
+NC_010537.1	RefSeq	CDS	21377	21595	.	+	0	ID=cds-YP_001798559.1;Parent=gene-AFV9_gp41;Dbxref=GenBank:YP_001798559.1,GeneID:6186754;Name=YP_001798559.1;gbkey=CDS;locus_tag=AFV9_gp41;product=hypothetical protein;protein_id=YP_001798559.1;transl_table=11
+NC_010537.1	RefSeq	gene	21617	21901	.	-	.	ID=gene-AFV9_gp42;Dbxref=GeneID:6186753;Name=AFV9_gp42;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp42
+NC_010537.1	RefSeq	CDS	21617	21901	.	-	0	ID=cds-YP_001798560.1;Parent=gene-AFV9_gp42;Dbxref=GenBank:YP_001798560.1,GeneID:6186753;Name=YP_001798560.1;gbkey=CDS;locus_tag=AFV9_gp42;product=hypothetical protein;protein_id=YP_001798560.1;transl_table=11
+NC_010537.1	RefSeq	gene	21898	22890	.	-	.	ID=gene-AFV9_gp43;Dbxref=GeneID:6186752;Name=AFV9_gp43;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp43
+NC_010537.1	RefSeq	CDS	21898	22890	.	-	0	ID=cds-YP_001798561.1;Parent=gene-AFV9_gp43;Dbxref=GenBank:YP_001798561.1,GeneID:6186752;Name=YP_001798561.1;gbkey=CDS;locus_tag=AFV9_gp43;product=glycosyltransferase;protein_id=YP_001798561.1;transl_table=11
+NC_010537.1	RefSeq	gene	22968	23180	.	+	.	ID=gene-AFV9_gp44;Dbxref=GeneID:6186750;Name=AFV9_gp44;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp44
+NC_010537.1	RefSeq	CDS	22968	23180	.	+	0	ID=cds-YP_001798562.1;Parent=gene-AFV9_gp44;Dbxref=GenBank:YP_001798562.1,GeneID:6186750;Name=YP_001798562.1;gbkey=CDS;locus_tag=AFV9_gp44;product=hypothetical protein;protein_id=YP_001798562.1;transl_table=11
+NC_010537.1	RefSeq	gene	23191	23664	.	+	.	ID=gene-AFV9_gp45;Dbxref=GeneID:6186749;Name=AFV9_gp45;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp45
+NC_010537.1	RefSeq	CDS	23191	23664	.	+	0	ID=cds-YP_001798563.1;Parent=gene-AFV9_gp45;Dbxref=GenBank:YP_001798563.1,GeneID:6186749;Name=YP_001798563.1;gbkey=CDS;locus_tag=AFV9_gp45;product=hypothetical protein;protein_id=YP_001798563.1;transl_table=11
+NC_010537.1	RefSeq	gene	23670	24422	.	+	.	ID=gene-AFV9_gp46;Dbxref=GeneID:6186747;Name=AFV9_gp46;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp46
+NC_010537.1	RefSeq	CDS	23670	24422	.	+	0	ID=cds-YP_001798564.1;Parent=gene-AFV9_gp46;Dbxref=GenBank:YP_001798564.1,GeneID:6186747;Name=YP_001798564.1;gbkey=CDS;locus_tag=AFV9_gp46;product=hypothetical protein;protein_id=YP_001798564.1;transl_table=11
+NC_010537.1	RefSeq	gene	24419	25099	.	+	.	ID=gene-AFV9_gp47;Dbxref=GeneID:6186746;Name=AFV9_gp47;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp47
+NC_010537.1	RefSeq	CDS	24419	25099	.	+	0	ID=cds-YP_001798565.1;Parent=gene-AFV9_gp47;Dbxref=GenBank:YP_001798565.1,GeneID:6186746;Name=YP_001798565.1;gbkey=CDS;locus_tag=AFV9_gp47;product=hypothetical protein;protein_id=YP_001798565.1;transl_table=11
+NC_010537.1	RefSeq	gene	25108	25539	.	+	.	ID=gene-AFV9_gp48;Dbxref=GeneID:6186745;Name=AFV9_gp48;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp48
+NC_010537.1	RefSeq	CDS	25108	25539	.	+	0	ID=cds-YP_001798566.1;Parent=gene-AFV9_gp48;Dbxref=GenBank:YP_001798566.1,GeneID:6186745;Name=YP_001798566.1;gbkey=CDS;locus_tag=AFV9_gp48;product=hypothetical protein;protein_id=YP_001798566.1;transl_table=11
+NC_010537.1	RefSeq	gene	25565	25915	.	+	.	ID=gene-AFV9_gp49;Dbxref=GeneID:6186742;Name=AFV9_gp49;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp49
+NC_010537.1	RefSeq	CDS	25565	25915	.	+	0	ID=cds-YP_001798567.1;Parent=gene-AFV9_gp49;Dbxref=GenBank:YP_001798567.1,GeneID:6186742;Name=YP_001798567.1;gbkey=CDS;locus_tag=AFV9_gp49;product=hypothetical protein;protein_id=YP_001798567.1;transl_table=11
+NC_010537.1	RefSeq	gene	25881	26429	.	-	.	ID=gene-AFV9_gp50;Dbxref=GeneID:6186741;Name=AFV9_gp50;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp50
+NC_010537.1	RefSeq	CDS	25881	26429	.	-	0	ID=cds-YP_001798568.1;Parent=gene-AFV9_gp50;Dbxref=GenBank:YP_001798568.1,GeneID:6186741;Name=YP_001798568.1;gbkey=CDS;locus_tag=AFV9_gp50;product=hypothetical protein;protein_id=YP_001798568.1;transl_table=11
+NC_010537.1	RefSeq	gene	26426	27622	.	-	.	ID=gene-AFV9_gp51;Dbxref=GeneID:6186740;Name=AFV9_gp51;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp51
+NC_010537.1	RefSeq	CDS	26426	27622	.	-	0	ID=cds-YP_001798569.1;Parent=gene-AFV9_gp51;Dbxref=GenBank:YP_001798569.1,GeneID:6186740;Name=YP_001798569.1;gbkey=CDS;locus_tag=AFV9_gp51;product=hypothetical protein;protein_id=YP_001798569.1;transl_table=11
+NC_010537.1	RefSeq	gene	27657	28076	.	+	.	ID=gene-AFV9_gp52;Dbxref=GeneID:6186739;Name=AFV9_gp52;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp52
+NC_010537.1	RefSeq	CDS	27657	28076	.	+	0	ID=cds-YP_001798570.1;Parent=gene-AFV9_gp52;Dbxref=GenBank:YP_001798570.1,GeneID:6186739;Name=YP_001798570.1;gbkey=CDS;locus_tag=AFV9_gp52;product=hypothetical protein;protein_id=YP_001798570.1;transl_table=11
+NC_010537.1	RefSeq	gene	28125	28412	.	+	.	ID=gene-AFV9_gp53;Dbxref=GeneID:6186738;Name=AFV9_gp53;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp53
+NC_010537.1	RefSeq	CDS	28125	28412	.	+	0	ID=cds-YP_001798571.1;Parent=gene-AFV9_gp53;Dbxref=GenBank:YP_001798571.1,GeneID:6186738;Name=YP_001798571.1;gbkey=CDS;locus_tag=AFV9_gp53;product=hypothetical protein;protein_id=YP_001798571.1;transl_table=11
+NC_010537.1	RefSeq	gene	28414	31926	.	-	.	ID=gene-AFV9_gp54;Dbxref=GeneID:6186737;Name=AFV9_gp54;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp54
+NC_010537.1	RefSeq	CDS	28414	31926	.	-	0	ID=cds-YP_001798572.1;Parent=gene-AFV9_gp54;Dbxref=GenBank:YP_001798572.1,GeneID:6186737;Name=YP_001798572.1;gbkey=CDS;locus_tag=AFV9_gp54;product=hypothetical protein;protein_id=YP_001798572.1;transl_table=11
+NC_010537.1	RefSeq	gene	31953	32834	.	+	.	ID=gene-AFV9_gp55;Dbxref=GeneID:6186734;Name=AFV9_gp55;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp55
+NC_010537.1	RefSeq	CDS	31953	32834	.	+	0	ID=cds-YP_001798573.1;Parent=gene-AFV9_gp55;Dbxref=GenBank:YP_001798573.1,GeneID:6186734;Name=YP_001798573.1;gbkey=CDS;locus_tag=AFV9_gp55;product=hypothetical protein;protein_id=YP_001798573.1;transl_table=11
+NC_010537.1	RefSeq	gene	32872	33366	.	+	.	ID=gene-AFV9_gp56;Dbxref=GeneID:6186732;Name=AFV9_gp56;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp56
+NC_010537.1	RefSeq	CDS	32872	33366	.	+	0	ID=cds-YP_001798574.1;Parent=gene-AFV9_gp56;Dbxref=GenBank:YP_001798574.1,GeneID:6186732;Name=YP_001798574.1;gbkey=CDS;locus_tag=AFV9_gp56;product=hypothetical protein;protein_id=YP_001798574.1;transl_table=11
+NC_010537.1	RefSeq	gene	33379	33573	.	+	.	ID=gene-AFV9_gp57;Dbxref=GeneID:6186731;Name=AFV9_gp57;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp57
+NC_010537.1	RefSeq	CDS	33379	33573	.	+	0	ID=cds-YP_001798575.1;Parent=gene-AFV9_gp57;Dbxref=GenBank:YP_001798575.1,GeneID:6186731;Name=YP_001798575.1;gbkey=CDS;locus_tag=AFV9_gp57;product=hypothetical protein;protein_id=YP_001798575.1;transl_table=11
+NC_010537.1	RefSeq	gene	33570	34361	.	+	.	ID=gene-AFV9_gp58;Dbxref=GeneID:6186730;Name=AFV9_gp58;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp58
+NC_010537.1	RefSeq	CDS	33570	34361	.	+	0	ID=cds-YP_001798576.1;Parent=gene-AFV9_gp58;Dbxref=GenBank:YP_001798576.1,GeneID:6186730;Name=YP_001798576.1;gbkey=CDS;locus_tag=AFV9_gp58;product=glycosyltransferase;protein_id=YP_001798576.1;transl_table=11
+NC_010537.1	RefSeq	gene	34354	34620	.	-	.	ID=gene-AFV9_gp59;Dbxref=GeneID:6186728;Name=AFV9_gp59;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp59
+NC_010537.1	RefSeq	CDS	34354	34620	.	-	0	ID=cds-YP_001798577.1;Parent=gene-AFV9_gp59;Dbxref=GenBank:YP_001798577.1,GeneID:6186728;Name=YP_001798577.1;gbkey=CDS;locus_tag=AFV9_gp59;product=hypothetical protein;protein_id=YP_001798577.1;transl_table=11
+NC_010537.1	RefSeq	gene	34633	34968	.	-	.	ID=gene-AFV9_gp60;Dbxref=GeneID:6186725;Name=AFV9_gp60;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp60
+NC_010537.1	RefSeq	CDS	34633	34968	.	-	0	ID=cds-YP_001798578.1;Parent=gene-AFV9_gp60;Dbxref=GenBank:YP_001798578.1,GeneID:6186725;Name=YP_001798578.1;gbkey=CDS;locus_tag=AFV9_gp60;product=hypothetical protein;protein_id=YP_001798578.1;transl_table=11
+NC_010537.1	RefSeq	gene	35054	35527	.	+	.	ID=gene-AFV9_gp61;Dbxref=GeneID:6186723;Name=AFV9_gp61;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp61
+NC_010537.1	RefSeq	CDS	35054	35527	.	+	0	ID=cds-YP_001798579.1;Parent=gene-AFV9_gp61;Dbxref=GenBank:YP_001798579.1,GeneID:6186723;Name=YP_001798579.1;gbkey=CDS;locus_tag=AFV9_gp61;product=SAM-dependent methyltransferase;protein_id=YP_001798579.1;transl_table=11
+NC_010537.1	RefSeq	gene	35524	35904	.	-	.	ID=gene-AFV9_gp62;Dbxref=GeneID:6186722;Name=AFV9_gp62;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp62
+NC_010537.1	RefSeq	CDS	35524	35904	.	-	0	ID=cds-YP_001798580.1;Parent=gene-AFV9_gp62;Dbxref=GenBank:YP_001798580.1,GeneID:6186722;Name=YP_001798580.1;gbkey=CDS;locus_tag=AFV9_gp62;product=transposase;protein_id=YP_001798580.1;transl_table=11
+NC_010537.1	RefSeq	gene	35939	36646	.	-	.	ID=gene-AFV9_gp63;Dbxref=GeneID:6186721;Name=AFV9_gp63;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp63
+NC_010537.1	RefSeq	CDS	35939	36646	.	-	0	ID=cds-YP_001798581.1;Parent=gene-AFV9_gp63;Dbxref=GenBank:YP_001798581.1,GeneID:6186721;Name=YP_001798581.1;gbkey=CDS;locus_tag=AFV9_gp63;product=hypothetical protein;protein_id=YP_001798581.1;transl_table=11
+NC_010537.1	RefSeq	gene	36734	37015	.	+	.	ID=gene-AFV9_gp64;Dbxref=GeneID:6186720;Name=AFV9_gp64;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp64
+NC_010537.1	RefSeq	CDS	36734	37015	.	+	0	ID=cds-YP_001798582.1;Parent=gene-AFV9_gp64;Dbxref=GenBank:YP_001798582.1,GeneID:6186720;Name=YP_001798582.1;gbkey=CDS;locus_tag=AFV9_gp64;product=virion structural protein;protein_id=YP_001798582.1;transl_table=11
+NC_010537.1	RefSeq	gene	37354	37695	.	-	.	ID=gene-AFV9_gp65;Dbxref=GeneID:6186719;Name=AFV9_gp65;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp65
+NC_010537.1	RefSeq	CDS	37354	37695	.	-	0	ID=cds-YP_001798583.1;Parent=gene-AFV9_gp65;Dbxref=GenBank:YP_001798583.1,GeneID:6186719;Name=YP_001798583.1;gbkey=CDS;locus_tag=AFV9_gp65;product=hypothetical protein;protein_id=YP_001798583.1;transl_table=11
+NC_010537.1	RefSeq	gene	37692	37943	.	-	.	ID=gene-AFV9_gp66;Dbxref=GeneID:6186718;Name=AFV9_gp66;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp66
+NC_010537.1	RefSeq	CDS	37692	37943	.	-	0	ID=cds-YP_001798584.1;Parent=gene-AFV9_gp66;Dbxref=GenBank:YP_001798584.1,GeneID:6186718;Name=YP_001798584.1;gbkey=CDS;locus_tag=AFV9_gp66;product=hypothetical protein;protein_id=YP_001798584.1;transl_table=11
+NC_010537.1	RefSeq	gene	37947	38144	.	-	.	ID=gene-AFV9_gp67;Dbxref=GeneID:6186717;Name=AFV9_gp67;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp67
+NC_010537.1	RefSeq	CDS	37947	38144	.	-	0	ID=cds-YP_001798585.1;Parent=gene-AFV9_gp67;Dbxref=GenBank:YP_001798585.1,GeneID:6186717;Name=YP_001798585.1;gbkey=CDS;locus_tag=AFV9_gp67;product=hypothetical protein;protein_id=YP_001798585.1;transl_table=11
+NC_010537.1	RefSeq	gene	38168	38740	.	-	.	ID=gene-AFV9_gp68;Dbxref=GeneID:6186714;Name=AFV9_gp68;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp68
+NC_010537.1	RefSeq	CDS	38168	38740	.	-	0	ID=cds-YP_001798586.1;Parent=gene-AFV9_gp68;Dbxref=GenBank:YP_001798586.1,GeneID:6186714;Name=YP_001798586.1;gbkey=CDS;locus_tag=AFV9_gp68;product=hypothetical protein;protein_id=YP_001798586.1;transl_table=11
+NC_010537.1	RefSeq	gene	38766	39359	.	-	.	ID=gene-AFV9_gp69;Dbxref=GeneID:6186712;Name=AFV9_gp69;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp69
+NC_010537.1	RefSeq	CDS	38766	39359	.	-	0	ID=cds-YP_001798587.1;Parent=gene-AFV9_gp69;Dbxref=GenBank:YP_001798587.1,GeneID:6186712;Name=YP_001798587.1;gbkey=CDS;locus_tag=AFV9_gp69;product=hypothetical protein;protein_id=YP_001798587.1;transl_table=11
+NC_010537.1	RefSeq	gene	39356	40063	.	-	.	ID=gene-AFV9_gp70;Dbxref=GeneID:6186711;Name=AFV9_gp70;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp70
+NC_010537.1	RefSeq	CDS	39356	40063	.	-	0	ID=cds-YP_001798588.1;Parent=gene-AFV9_gp70;Dbxref=GenBank:YP_001798588.1,GeneID:6186711;Name=YP_001798588.1;gbkey=CDS;locus_tag=AFV9_gp70;product=hypothetical protein;protein_id=YP_001798588.1;transl_table=11
+NC_010537.1	RefSeq	gene	40050	40253	.	-	.	ID=gene-AFV9_gp71;Dbxref=GeneID:6186710;Name=AFV9_gp71;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp71
+NC_010537.1	RefSeq	CDS	40050	40253	.	-	0	ID=cds-YP_001798589.1;Parent=gene-AFV9_gp71;Dbxref=GenBank:YP_001798589.1,GeneID:6186710;Name=YP_001798589.1;gbkey=CDS;locus_tag=AFV9_gp71;product=virion structural protein;protein_id=YP_001798589.1;transl_table=11
+NC_010537.1	RefSeq	gene	40293	40466	.	-	.	ID=gene-AFV9_gp72;Dbxref=GeneID:6186709;Name=AFV9_gp72;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp72
+NC_010537.1	RefSeq	CDS	40293	40466	.	-	0	ID=cds-YP_001798590.1;Parent=gene-AFV9_gp72;Dbxref=GenBank:YP_001798590.1,GeneID:6186709;Name=YP_001798590.1;gbkey=CDS;locus_tag=AFV9_gp72;product=hypothetical protein;protein_id=YP_001798590.1;transl_table=11
+NC_010537.1	RefSeq	gene	40501	40725	.	-	.	ID=gene-AFV9_gp73;Dbxref=GeneID:6186708;Name=AFV9_gp73;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AFV9_gp73
+NC_010537.1	RefSeq	CDS	40501	40725	.	-	0	ID=cds-YP_001798591.1;Parent=gene-AFV9_gp73;Dbxref=GenBank:YP_001798591.1,GeneID:6186708;Name=YP_001798591.1;gbkey=CDS;locus_tag=AFV9_gp73;product=hypothetical protein;protein_id=YP_001798591.1;transl_table=11
+

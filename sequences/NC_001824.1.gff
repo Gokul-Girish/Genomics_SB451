@@ -1,0 +1,228 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_001824.1 1 102653
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36363
+NC_001824.1	RefSeq	region	1	102653	.	+	.	ID=NC_001824.1:1..102653;Dbxref=taxon:36363;clone-lib=EcoRI DNA fragments by Darai et al. 1985;gbkey=Src;genome=genomic;mol_type=genomic DNA
+NC_001824.1	RefSeq	gene	263	622	.	+	.	ID=gene-LCDV1gp001;Dbxref=GeneID:1497289;Name=LCDV1gp001;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf91;locus_tag=LCDV1gp001
+NC_001824.1	RefSeq	CDS	263	622	.	+	0	ID=cds-NP_078614.1;Parent=gene-LCDV1gp001;Dbxref=GenBank:NP_078614.1,GeneID:1497289;Name=NP_078614.1;gbkey=CDS;locus_tag=LCDV1gp001;product=hypothetical protein;protein_id=NP_078614.1
+NC_001824.1	RefSeq	gene	619	1365	.	-	.	ID=gene-LCDV1gp002;Dbxref=GeneID:1497290;Name=LCDV1gp002;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf45;locus_tag=LCDV1gp002
+NC_001824.1	RefSeq	CDS	619	1365	.	-	0	ID=cds-NP_078615.1;Parent=gene-LCDV1gp002;Dbxref=GenBank:NP_078615.1,GeneID:1497290;Name=NP_078615.1;gbkey=CDS;locus_tag=LCDV1gp002;product=Proliferating cell nuclear antigen;protein_id=NP_078615.1
+NC_001824.1	RefSeq	gene	1465	2151	.	-	.	ID=gene-LCDV1gp003;Dbxref=GeneID:1497291;Name=LCDV1gp003;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf51;locus_tag=LCDV1gp003
+NC_001824.1	RefSeq	CDS	1465	2151	.	-	0	ID=cds-NP_078617.1;Parent=gene-LCDV1gp003;Dbxref=GenBank:NP_078617.1,GeneID:1497291;Name=NP_078617.1;gbkey=CDS;locus_tag=LCDV1gp003;product=DNA methyltransferase;protein_id=NP_078617.1
+NC_001824.1	RefSeq	gene	2237	2731	.	-	.	ID=gene-LCDV1gp004;Dbxref=GeneID:1497292;Name=LCDV1gp004;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf70;locus_tag=LCDV1gp004
+NC_001824.1	RefSeq	CDS	2237	2731	.	-	0	ID=cds-NP_078618.1;Parent=gene-LCDV1gp004;Dbxref=GenBank:NP_078618.1,GeneID:1497292;Name=NP_078618.1;gbkey=CDS;locus_tag=LCDV1gp004;product=hypothetical protein;protein_id=NP_078618.1
+NC_001824.1	RefSeq	gene	2718	4271	.	-	.	ID=gene-LCDV1gp005;Dbxref=GeneID:1497293;Name=LCDV1gp005;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf14;locus_tag=LCDV1gp005
+NC_001824.1	RefSeq	CDS	2718	4271	.	-	0	ID=cds-NP_078619.1;Parent=gene-LCDV1gp005;Dbxref=GenBank:NP_078619.1,GeneID:1497293;Name=NP_078619.1;gbkey=CDS;locus_tag=LCDV1gp005;product=hypothetical protein;protein_id=NP_078619.1
+NC_001824.1	RefSeq	gene	4355	5329	.	+	.	ID=gene-LCDV1gp006;Dbxref=GeneID:1497294;Name=LCDV1gp006;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf35;locus_tag=LCDV1gp006
+NC_001824.1	RefSeq	CDS	4355	5329	.	+	0	ID=cds-NP_078623.1;Parent=gene-LCDV1gp006;Dbxref=GenBank:NP_078623.1,GeneID:1497294;Name=NP_078623.1;gbkey=CDS;locus_tag=LCDV1gp006;product=hypothetical protein;protein_id=NP_078623.1
+NC_001824.1	RefSeq	gene	5479	9078	.	-	.	ID=gene-LCDV1gp007;Dbxref=GeneID:1497295;Name=LCDV1gp007;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf1;locus_tag=LCDV1gp007
+NC_001824.1	RefSeq	CDS	5479	9078	.	-	0	ID=cds-NP_078624.1;Parent=gene-LCDV1gp007;Dbxref=GenBank:NP_078624.1,GeneID:1497295;Name=NP_078624.1;gbkey=CDS;locus_tag=LCDV1gp007;product=DNA-depenent RNA polymerase largest subunit;protein_id=NP_078624.1
+NC_001824.1	RefSeq	gene	9192	10205	.	+	.	ID=gene-LCDV1gp008;Dbxref=GeneID:1497296;Name=LCDV1gp008;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf33;locus_tag=LCDV1gp008
+NC_001824.1	RefSeq	CDS	9192	10205	.	+	0	ID=cds-NP_078626.1;Parent=gene-LCDV1gp008;Dbxref=GenBank:NP_078626.1,GeneID:1497296;Name=NP_078626.1;gbkey=CDS;locus_tag=LCDV1gp008;product=hypothetical LCDV1 paralog family 2;protein_id=NP_078626.1
+NC_001824.1	RefSeq	gene	10234	10722	.	+	.	ID=gene-LCDV1gp009;Dbxref=GeneID:1497297;Name=LCDV1gp009;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf71;locus_tag=LCDV1gp009
+NC_001824.1	RefSeq	CDS	10234	10722	.	+	0	ID=cds-NP_078627.1;Parent=gene-LCDV1gp009;Dbxref=GenBank:NP_078627.1,GeneID:1497297;Name=NP_078627.1;gbkey=CDS;locus_tag=LCDV1gp009;product=hypothetical protein;protein_id=NP_078627.1
+NC_001824.1	RefSeq	gene	10740	11384	.	+	.	ID=gene-LCDV1gp010;Dbxref=GeneID:1497298;Name=LCDV1gp010;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf54;locus_tag=LCDV1gp010
+NC_001824.1	RefSeq	CDS	10740	11384	.	+	0	ID=cds-NP_078629.1;Parent=gene-LCDV1gp010;Dbxref=GenBank:NP_078629.1,GeneID:1497298;Name=NP_078629.1;gbkey=CDS;locus_tag=LCDV1gp010;product=hypothetical protein;protein_id=NP_078629.1
+NC_001824.1	RefSeq	gene	11486	11584	.	+	.	ID=gene-LCDV1gp011;Dbxref=GeneID:1497299;Name=LCDV1gp011;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf158;locus_tag=LCDV1gp011
+NC_001824.1	RefSeq	CDS	11486	11584	.	+	0	ID=cds-NP_078630.1;Parent=gene-LCDV1gp011;Dbxref=GenBank:NP_078630.1,GeneID:1497299;Name=NP_078630.1;gbkey=CDS;locus_tag=LCDV1gp011;product=hypothetical protein;protein_id=NP_078630.1
+NC_001824.1	RefSeq	gene	11776	12219	.	+	.	ID=gene-LCDV1gp012;Dbxref=GeneID:1497300;Name=LCDV1gp012;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf78;locus_tag=LCDV1gp012
+NC_001824.1	RefSeq	CDS	11776	12219	.	+	0	ID=cds-NP_078631.1;Parent=gene-LCDV1gp012;Dbxref=GenBank:NP_078631.1,GeneID:1497300;Name=NP_078631.1;gbkey=CDS;locus_tag=LCDV1gp012;product=MutT/NUDIX hydrolase;protein_id=NP_078631.1
+NC_001824.1	RefSeq	gene	12216	15290	.	-	.	ID=gene-LCDV1gp013;Dbxref=GeneID:1497301;Name=LCDV1gp013;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf3;locus_tag=LCDV1gp013
+NC_001824.1	RefSeq	CDS	12216	15290	.	-	0	ID=cds-NP_078633.1;Parent=gene-LCDV1gp013;Dbxref=GenBank:NP_078633.1,GeneID:1497301;Name=NP_078633.1;gbkey=CDS;locus_tag=LCDV1gp013;product=DNA-directed RNA polymerase subunit 2;protein_id=NP_078633.1
+NC_001824.1	RefSeq	gene	15254	15697	.	+	.	ID=gene-LCDV1gp014;Dbxref=GeneID:1497302;Name=LCDV1gp014;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf77;locus_tag=LCDV1gp014
+NC_001824.1	RefSeq	CDS	15254	15697	.	+	0	ID=cds-NP_078634.1;Parent=gene-LCDV1gp014;Dbxref=GenBank:NP_078634.1,GeneID:1497302;Name=NP_078634.1;gbkey=CDS;locus_tag=LCDV1gp014;product=hypothetical protein;protein_id=NP_078634.1
+NC_001824.1	RefSeq	gene	15868	17004	.	+	.	ID=gene-LCDV1gp015;Dbxref=GeneID:1497303;Name=LCDV1gp015;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf26;locus_tag=LCDV1gp015
+NC_001824.1	RefSeq	CDS	15868	17004	.	+	0	ID=cds-NP_078636.1;Parent=gene-LCDV1gp015;Dbxref=GenBank:NP_078636.1,GeneID:1497303;Name=NP_078636.1;gbkey=CDS;locus_tag=LCDV1gp015;product=Ribonucleotide reductase small subunit;protein_id=NP_078636.1
+NC_001824.1	RefSeq	gene	17027	17314	.	+	.	ID=gene-LCDV1gp016;Dbxref=GeneID:1497304;Name=LCDV1gp016;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf102;locus_tag=LCDV1gp016
+NC_001824.1	RefSeq	CDS	17027	17314	.	+	0	ID=cds-NP_078638.1;Parent=gene-LCDV1gp016;Dbxref=GenBank:NP_078638.1,GeneID:1497304;Name=NP_078638.1;gbkey=CDS;locus_tag=LCDV1gp016;product=VLTF2-like late transcription factor;protein_id=NP_078638.1
+NC_001824.1	RefSeq	gene	17311	17616	.	-	.	ID=gene-LCDV1gp017;Dbxref=GeneID:1497305;Name=LCDV1gp017;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=97;locus_tag=LCDV1gp017
+NC_001824.1	RefSeq	CDS	17311	17616	.	-	0	ID=cds-NP_078639.1;Parent=gene-LCDV1gp017;Dbxref=GenBank:NP_078639.1,GeneID:1497305;Name=NP_078639.1;gbkey=CDS;locus_tag=LCDV1gp017;product=97;protein_id=NP_078639.1
+NC_001824.1	RefSeq	gene	17725	18111	.	+	.	ID=gene-LCDV1gp018;Dbxref=GeneID:1497306;Name=LCDV1gp018;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf88;locus_tag=LCDV1gp018
+NC_001824.1	RefSeq	CDS	17725	18111	.	+	0	ID=cds-NP_078640.1;Parent=gene-LCDV1gp018;Dbxref=GenBank:NP_078640.1,GeneID:1497306;Name=NP_078640.1;gbkey=CDS;locus_tag=LCDV1gp018;product=hypothetical protein;protein_id=NP_078640.1
+NC_001824.1	RefSeq	gene	18103	18576	.	-	.	ID=gene-LCDV1gp019;Dbxref=GeneID:1497307;Name=LCDV1gp019;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf73;locus_tag=LCDV1gp019
+NC_001824.1	RefSeq	CDS	18103	18576	.	-	0	ID=cds-NP_078641.1;Parent=gene-LCDV1gp019;Dbxref=GenBank:NP_078641.1,GeneID:1497307;Name=NP_078641.1;gbkey=CDS;locus_tag=LCDV1gp019;product=hypothetical protein;protein_id=NP_078641.1
+NC_001824.1	RefSeq	gene	18554	18832	.	-	.	ID=gene-LCDV1gp020;Dbxref=GeneID:1497308;Name=LCDV1gp020;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf104;locus_tag=LCDV1gp020
+NC_001824.1	RefSeq	CDS	18554	18832	.	-	0	ID=cds-NP_078642.1;Parent=gene-LCDV1gp020;Dbxref=GenBank:NP_078642.1,GeneID:1497308;Name=NP_078642.1;gbkey=CDS;locus_tag=LCDV1gp020;product=hypothetical protein;protein_id=NP_078642.1
+NC_001824.1	RefSeq	gene	19001	20755	.	+	.	ID=gene-LCDV1gp021;Dbxref=GeneID:1497309;Name=LCDV1gp021;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf11;locus_tag=LCDV1gp021
+NC_001824.1	RefSeq	CDS	19001	20755	.	+	0	ID=cds-NP_078643.1;Parent=gene-LCDV1gp021;Dbxref=GenBank:NP_078643.1,GeneID:1497309;Name=NP_078643.1;gbkey=CDS;locus_tag=LCDV1gp021;product=hypothetical protein;protein_id=NP_078643.1
+NC_001824.1	RefSeq	gene	20782	21138	.	-	.	ID=gene-LCDV1gp022;Dbxref=GeneID:1497310;Name=LCDV1gp022;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf92;locus_tag=LCDV1gp022
+NC_001824.1	RefSeq	CDS	20782	21138	.	-	0	ID=cds-NP_078646.1;Parent=gene-LCDV1gp022;Dbxref=GenBank:NP_078646.1,GeneID:1497310;Name=NP_078646.1;gbkey=CDS;locus_tag=LCDV1gp022;product=hypothetical protein;protein_id=NP_078646.1
+NC_001824.1	RefSeq	gene	21169	22461	.	+	.	ID=gene-LCDV1gp023;Dbxref=GeneID:1497311;Name=LCDV1gp023;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf24;locus_tag=LCDV1gp023
+NC_001824.1	RefSeq	CDS	21169	22461	.	+	0	ID=cds-NP_078647.1;Parent=gene-LCDV1gp023;Dbxref=GenBank:NP_078647.1,GeneID:1497311;Name=NP_078647.1;gbkey=CDS;locus_tag=LCDV1gp023;product=Papain-like proteinase;protein_id=NP_078647.1
+NC_001824.1	RefSeq	gene	22519	23643	.	-	.	ID=gene-LCDV1gp024;Dbxref=GeneID:1497312;Name=LCDV1gp024;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf27;locus_tag=LCDV1gp024
+NC_001824.1	RefSeq	CDS	22519	23643	.	-	0	ID=cds-NP_078648.1;Parent=gene-LCDV1gp024;Dbxref=GenBank:NP_078648.1,GeneID:1497312;Name=NP_078648.1;gbkey=CDS;locus_tag=LCDV1gp024;product=hypothetical immediate-early protein;protein_id=NP_078648.1
+NC_001824.1	RefSeq	gene	23711	25579	.	+	.	ID=gene-LCDV1gp025;Dbxref=GeneID:1497313;Name=LCDV1gp025;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf9;locus_tag=LCDV1gp025
+NC_001824.1	RefSeq	CDS	23711	25579	.	+	0	ID=cds-NP_078649.1;Parent=gene-LCDV1gp025;Dbxref=GenBank:NP_078649.1,GeneID:1497313;Name=NP_078649.1;gbkey=CDS;locus_tag=LCDV1gp025;product=hypothetical protein;protein_id=NP_078649.1
+NC_001824.1	RefSeq	gene	25576	26082	.	-	.	ID=gene-LCDV1gp026;Dbxref=GeneID:1497314;Name=LCDV1gp026;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf68;locus_tag=LCDV1gp026
+NC_001824.1	RefSeq	CDS	25576	26082	.	-	0	ID=cds-NP_078651.1;Parent=gene-LCDV1gp026;Dbxref=GenBank:NP_078651.1,GeneID:1497314;Name=NP_078651.1;gbkey=CDS;locus_tag=LCDV1gp026;product=hypothetical protein;protein_id=NP_078651.1
+NC_001824.1	RefSeq	gene	26110	26277	.	+	.	ID=gene-LCDV1gp027;Dbxref=GeneID:1497315;Name=LCDV1gp027;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf140;locus_tag=LCDV1gp027
+NC_001824.1	RefSeq	CDS	26110	26277	.	+	0	ID=cds-NP_078652.1;Parent=gene-LCDV1gp027;Dbxref=GenBank:NP_078652.1,GeneID:1497315;Name=NP_078652.1;gbkey=CDS;locus_tag=LCDV1gp027;product=hypothetical protein;protein_id=NP_078652.1
+NC_001824.1	RefSeq	gene	26266	26493	.	-	.	ID=gene-LCDV1gp028;Dbxref=GeneID:1497316;Name=LCDV1gp028;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf116;locus_tag=LCDV1gp028
+NC_001824.1	RefSeq	CDS	26266	26493	.	-	0	ID=cds-NP_078653.1;Parent=gene-LCDV1gp028;Dbxref=GenBank:NP_078653.1,GeneID:1497316;Name=NP_078653.1;gbkey=CDS;locus_tag=LCDV1gp028;product=hypothetical protein;protein_id=NP_078653.1
+NC_001824.1	RefSeq	gene	26549	27316	.	+	.	ID=gene-LCDV1gp029;Dbxref=GeneID:1497317;Name=LCDV1gp029;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf42;locus_tag=LCDV1gp029
+NC_001824.1	RefSeq	CDS	26549	27316	.	+	0	ID=cds-NP_078654.1;Parent=gene-LCDV1gp029;Dbxref=GenBank:NP_078654.1,GeneID:1497317;Name=NP_078654.1;gbkey=CDS;locus_tag=LCDV1gp029;product=Galactose-binding lectin;protein_id=NP_078654.1
+NC_001824.1	RefSeq	gene	27353	28087	.	+	.	ID=gene-LCDV1gp030;Dbxref=GeneID:1497318;Name=LCDV1gp030;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf46;locus_tag=LCDV1gp030
+NC_001824.1	RefSeq	CDS	27353	28087	.	+	0	ID=cds-NP_078656.1;Parent=gene-LCDV1gp030;Dbxref=GenBank:NP_078656.1,GeneID:1497318;Name=NP_078656.1;gbkey=CDS;locus_tag=LCDV1gp030;product=Virion assembly protein%2C NTPase;protein_id=NP_078656.1
+NC_001824.1	RefSeq	gene	28092	28598	.	-	.	ID=gene-LCDV1gp031;Dbxref=GeneID:1497319;Name=LCDV1gp031;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf67;locus_tag=LCDV1gp031
+NC_001824.1	RefSeq	CDS	28092	28598	.	-	0	ID=cds-NP_078657.1;Parent=gene-LCDV1gp031;Dbxref=GenBank:NP_078657.1,GeneID:1497319;Name=NP_078657.1;gbkey=CDS;locus_tag=LCDV1gp031;product=hypothetical protein;protein_id=NP_078657.1
+NC_001824.1	RefSeq	gene	28722	29183	.	-	.	ID=gene-LCDV1gp032;Dbxref=GeneID:1497320;Name=LCDV1gp032;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf74;locus_tag=LCDV1gp032
+NC_001824.1	RefSeq	CDS	28722	29183	.	-	0	ID=cds-NP_078659.1;Parent=gene-LCDV1gp032;Dbxref=GenBank:NP_078659.1,GeneID:1497320;Name=NP_078659.1;gbkey=CDS;locus_tag=LCDV1gp032;product=hypothetical protein;protein_id=NP_078659.1
+NC_001824.1	RefSeq	gene	29232	30167	.	-	.	ID=gene-LCDV1gp033;Dbxref=GeneID:1497321;Name=LCDV1gp033;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf37;locus_tag=LCDV1gp033
+NC_001824.1	RefSeq	CDS	29232	30167	.	-	0	ID=cds-NP_078660.1;Parent=gene-LCDV1gp033;Dbxref=GenBank:NP_078660.1,GeneID:1497321;Name=NP_078660.1;gbkey=CDS;locus_tag=LCDV1gp033;product=Collagen-like protein;protein_id=NP_078660.1
+NC_001824.1	RefSeq	gene	30300	30665	.	-	.	ID=gene-LCDV1gp034;Dbxref=GeneID:1497322;Name=LCDV1gp034;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf89;locus_tag=LCDV1gp034
+NC_001824.1	RefSeq	CDS	30300	30665	.	-	0	ID=cds-NP_078664.1;Parent=gene-LCDV1gp034;Dbxref=GenBank:NP_078664.1,GeneID:1497322;Name=NP_078664.1;gbkey=CDS;locus_tag=LCDV1gp034;product=hypothetical protein;protein_id=NP_078664.1
+NC_001824.1	RefSeq	gene	30646	32025	.	-	.	ID=gene-LCDV1gp035;Dbxref=GeneID:1497323;Name=LCDV1gp035;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf20;locus_tag=LCDV1gp035
+NC_001824.1	RefSeq	CDS	30646	32025	.	-	0	ID=cds-NP_078665.1;Parent=gene-LCDV1gp035;Dbxref=GenBank:NP_078665.1,GeneID:1497323;Name=NP_078665.1;gbkey=CDS;locus_tag=LCDV1gp035;product=Myristylated membrane protein A;protein_id=NP_078665.1
+NC_001824.1	RefSeq	gene	32232	32768	.	-	.	ID=gene-LCDV1gp036;Dbxref=GeneID:1497324;Name=LCDV1gp036;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf61;locus_tag=LCDV1gp036
+NC_001824.1	RefSeq	CDS	32232	32768	.	-	0	ID=cds-NP_078666.1;Parent=gene-LCDV1gp036;Dbxref=GenBank:NP_078666.1,GeneID:1497324;Name=NP_078666.1;gbkey=CDS;locus_tag=LCDV1gp036;product=uncharacterized LCDV1 paralog family 1;protein_id=NP_078666.1
+NC_001824.1	RefSeq	gene	32893	33507	.	+	.	ID=gene-LCDV1gp037;Dbxref=GeneID:1497325;Name=LCDV1gp037;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf56;locus_tag=LCDV1gp037
+NC_001824.1	RefSeq	CDS	32893	33507	.	+	0	ID=cds-NP_078668.1;Parent=gene-LCDV1gp037;Dbxref=GenBank:NP_078668.1,GeneID:1497325;Name=NP_078668.1;gbkey=CDS;locus_tag=LCDV1gp037;product=uncharacterized LCDV1 paralog family 1;protein_id=NP_078668.1
+NC_001824.1	RefSeq	gene	33570	33971	.	+	.	ID=gene-LCDV1gp038;Dbxref=GeneID:1497326;Name=LCDV1gp038;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf85;locus_tag=LCDV1gp038
+NC_001824.1	RefSeq	CDS	33570	33971	.	+	0	ID=cds-NP_078670.1;Parent=gene-LCDV1gp038;Dbxref=GenBank:NP_078670.1,GeneID:1497326;Name=NP_078670.1;gbkey=CDS;locus_tag=LCDV1gp038;product=hypothetical protein;protein_id=NP_078670.1
+NC_001824.1	RefSeq	gene	34026	34460	.	+	.	ID=gene-LCDV1gp039;Dbxref=GeneID:1497327;Name=LCDV1gp039;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf81;locus_tag=LCDV1gp039
+NC_001824.1	RefSeq	CDS	34026	34460	.	+	0	ID=cds-NP_078671.1;Parent=gene-LCDV1gp039;Dbxref=GenBank:NP_078671.1,GeneID:1497327;Name=NP_078671.1;gbkey=CDS;locus_tag=LCDV1gp039;product=Apoptosis regulation Bcl-2 family protein;protein_id=NP_078671.1
+NC_001824.1	RefSeq	gene	34586	35308	.	+	.	ID=gene-LCDV1gp040;Dbxref=GeneID:1497328;Name=LCDV1gp040;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf47;locus_tag=LCDV1gp040
+NC_001824.1	RefSeq	CDS	34586	35308	.	+	0	ID=cds-NP_078673.1;Parent=gene-LCDV1gp040;Dbxref=GenBank:NP_078673.1,GeneID:1497328;Name=NP_078673.1;gbkey=CDS;locus_tag=LCDV1gp040;product=hypothetical protein;protein_id=NP_078673.1
+NC_001824.1	RefSeq	gene	35477	36769	.	-	.	ID=gene-LCDV1gp041;Dbxref=GeneID:1497329;Name=LCDV1gp041;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf23;locus_tag=LCDV1gp041
+NC_001824.1	RefSeq	CDS	35477	36769	.	-	0	ID=cds-NP_078676.1;Parent=gene-LCDV1gp041;Dbxref=GenBank:NP_078676.1,GeneID:1497329;Name=NP_078676.1;gbkey=CDS;locus_tag=LCDV1gp041;product=hypothetical protein;protein_id=NP_078676.1
+NC_001824.1	RefSeq	gene	36865	38424	.	+	.	ID=gene-LCDV1gp042;Dbxref=GeneID:1497330;Name=LCDV1gp042;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf13;locus_tag=LCDV1gp042
+NC_001824.1	RefSeq	CDS	36865	38424	.	+	0	ID=cds-NP_078677.1;Parent=gene-LCDV1gp042;Dbxref=GenBank:NP_078677.1,GeneID:1497330;Name=NP_078677.1;gbkey=CDS;locus_tag=LCDV1gp042;product=Phosphotransferase;protein_id=NP_078677.1
+NC_001824.1	RefSeq	gene	38572	39102	.	-	.	ID=gene-LCDV1gp043;Dbxref=GeneID:1497331;Name=LCDV1gp043;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf64;locus_tag=LCDV1gp043
+NC_001824.1	RefSeq	CDS	38572	39102	.	-	0	ID=cds-NP_078678.1;Parent=gene-LCDV1gp043;Dbxref=GenBank:NP_078678.1,GeneID:1497331;Name=NP_078678.1;gbkey=CDS;locus_tag=LCDV1gp043;product=Putative NIF/NLI interacting factor;protein_id=NP_078678.1
+NC_001824.1	RefSeq	gene	39057	39491	.	+	.	ID=gene-LCDV1gp044;Dbxref=GeneID:1497332;Name=LCDV1gp044;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf80;locus_tag=LCDV1gp044
+NC_001824.1	RefSeq	CDS	39057	39491	.	+	0	ID=cds-NP_078679.1;Parent=gene-LCDV1gp044;Dbxref=GenBank:NP_078679.1,GeneID:1497332;Name=NP_078679.1;gbkey=CDS;locus_tag=LCDV1gp044;product=hypothetical protein;protein_id=NP_078679.1
+NC_001824.1	RefSeq	gene	39502	40098	.	-	.	ID=gene-LCDV1gp045;Dbxref=GeneID:1497333;Name=LCDV1gp045;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf59;locus_tag=LCDV1gp045
+NC_001824.1	RefSeq	CDS	39502	40098	.	-	0	ID=cds-NP_078681.1;Parent=gene-LCDV1gp045;Dbxref=GenBank:NP_078681.1,GeneID:1497333;Name=NP_078681.1;gbkey=CDS;locus_tag=LCDV1gp045;product=hypothetical protein;protein_id=NP_078681.1
+NC_001824.1	RefSeq	gene	40067	40330	.	+	.	ID=gene-LCDV1gp046;Dbxref=GeneID:1497334;Name=LCDV1gp046;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf106;locus_tag=LCDV1gp046
+NC_001824.1	RefSeq	CDS	40067	40330	.	+	0	ID=cds-NP_078683.1;Parent=gene-LCDV1gp046;Dbxref=GenBank:NP_078683.1,GeneID:1497334;Name=NP_078683.1;gbkey=CDS;locus_tag=LCDV1gp046;product=hypothetical protein;protein_id=NP_078683.1
+NC_001824.1	RefSeq	gene	40379	41893	.	+	.	ID=gene-LCDV1gp047;Dbxref=GeneID:1497335;Name=LCDV1gp047;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf15;locus_tag=LCDV1gp047
+NC_001824.1	RefSeq	CDS	40379	41893	.	+	0	ID=cds-NP_078684.1;Parent=gene-LCDV1gp047;Dbxref=GenBank:NP_078684.1,GeneID:1497335;Name=NP_078684.1;gbkey=CDS;locus_tag=LCDV1gp047;product=hypothetical protein;protein_id=NP_078684.1
+NC_001824.1	RefSeq	gene	41940	42389	.	+	.	ID=gene-LCDV1gp048;Dbxref=GeneID:1497336;Name=LCDV1gp048;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf75;locus_tag=LCDV1gp048
+NC_001824.1	RefSeq	CDS	41940	42389	.	+	0	ID=cds-NP_078685.1;Parent=gene-LCDV1gp048;Dbxref=GenBank:NP_078685.1,GeneID:1497336;Name=NP_078685.1;gbkey=CDS;locus_tag=LCDV1gp048;product=hypothetical protein;protein_id=NP_078685.1
+NC_001824.1	RefSeq	gene	42391	42795	.	+	.	ID=gene-LCDV1gp049;Dbxref=GeneID:1497337;Name=LCDV1gp049;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf83;locus_tag=LCDV1gp049
+NC_001824.1	RefSeq	CDS	42391	42795	.	+	0	ID=cds-NP_078686.1;Parent=gene-LCDV1gp049;Dbxref=GenBank:NP_078686.1,GeneID:1497337;Name=NP_078686.1;gbkey=CDS;locus_tag=LCDV1gp049;product=hypothetical protein;protein_id=NP_078686.1
+NC_001824.1	RefSeq	gene	42862	44055	.	+	.	ID=gene-LCDV1gp050;Dbxref=GeneID:1497338;Name=LCDV1gp050;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf25;locus_tag=LCDV1gp050
+NC_001824.1	RefSeq	CDS	42862	44055	.	+	0	ID=cds-NP_078687.1;Parent=gene-LCDV1gp050;Dbxref=GenBank:NP_078687.1,GeneID:1497338;Name=NP_078687.1;gbkey=CDS;locus_tag=LCDV1gp050;product=hypothetical protein;protein_id=NP_078687.1
+NC_001824.1	RefSeq	gene	44141	46732	.	+	.	ID=gene-LCDV1gp051;Dbxref=GeneID:1497339;Name=LCDV1gp051;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf7;locus_tag=LCDV1gp051
+NC_001824.1	RefSeq	CDS	44141	46732	.	+	0	ID=cds-NP_078689.1;Parent=gene-LCDV1gp051;Dbxref=GenBank:NP_078689.1,GeneID:1497339;Name=NP_078689.1;gbkey=CDS;locus_tag=LCDV1gp051;product=Uncharacterized conserved domain linked to protein kinase domain;protein_id=NP_078689.1
+NC_001824.1	RefSeq	gene	44472	44663	.	-	.	ID=gene-LCDV1gp052;Dbxref=GeneID:1497340;Name=LCDV1gp052;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf129;locus_tag=LCDV1gp052
+NC_001824.1	RefSeq	CDS	44472	44663	.	-	0	ID=cds-NP_579903.1;Parent=gene-LCDV1gp052;Dbxref=GenBank:NP_579903.1,GeneID:1497340;Name=NP_579903.1;gbkey=CDS;locus_tag=LCDV1gp052;product=hypothetical protein;protein_id=NP_579903.1
+NC_001824.1	RefSeq	gene	46787	47032	.	-	.	ID=gene-LCDV1gp053;Dbxref=GeneID:1497341;Name=LCDV1gp053;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf109;locus_tag=LCDV1gp053
+NC_001824.1	RefSeq	CDS	46787	47032	.	-	0	ID=cds-NP_078695.1;Parent=gene-LCDV1gp053;Dbxref=GenBank:NP_078695.1,GeneID:1497341;Name=NP_078695.1;gbkey=CDS;locus_tag=LCDV1gp053;product=hypothetical protein;protein_id=NP_078695.1
+NC_001824.1	RefSeq	gene	47133	48233	.	-	.	ID=gene-LCDV1gp054;Dbxref=GeneID:1497342;Name=LCDV1gp054;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf28;locus_tag=LCDV1gp054
+NC_001824.1	RefSeq	CDS	47133	48233	.	-	0	ID=cds-NP_078696.1;Parent=gene-LCDV1gp054;Dbxref=GenBank:NP_078696.1,GeneID:1497342;Name=NP_078696.1;gbkey=CDS;locus_tag=LCDV1gp054;product=Tristetraprolin-like zinc finger protein C3H;protein_id=NP_078696.1
+NC_001824.1	RefSeq	gene	48349	48786	.	-	.	ID=gene-LCDV1gp055;Dbxref=GeneID:1497343;Name=LCDV1gp055;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf79;locus_tag=LCDV1gp055
+NC_001824.1	RefSeq	CDS	48349	48786	.	-	0	ID=cds-NP_078699.1;Parent=gene-LCDV1gp055;Dbxref=GenBank:NP_078699.1,GeneID:1497343;Name=NP_078699.1;gbkey=CDS;locus_tag=LCDV1gp055;product=Thiol oxidoreductase;protein_id=NP_078699.1
+NC_001824.1	RefSeq	gene	48830	49774	.	+	.	ID=gene-LCDV1gp056;Dbxref=GeneID:1497344;Name=LCDV1gp056;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf36;locus_tag=LCDV1gp056
+NC_001824.1	RefSeq	CDS	48830	49774	.	+	0	ID=cds-NP_078700.1;Parent=gene-LCDV1gp056;Dbxref=GenBank:NP_078700.1,GeneID:1497344;Name=NP_078700.1;gbkey=CDS;locus_tag=LCDV1gp056;product=Ariadne-2 homolog;protein_id=NP_078700.1
+NC_001824.1	RefSeq	gene	49832	50719	.	-	.	ID=gene-LCDV1gp057;Dbxref=GeneID:1497345;Name=LCDV1gp057;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf39;locus_tag=LCDV1gp057
+NC_001824.1	RefSeq	CDS	49832	50719	.	-	0	ID=cds-NP_078701.1;Parent=gene-LCDV1gp057;Dbxref=GenBank:NP_078701.1,GeneID:1497345;Name=NP_078701.1;gbkey=CDS;locus_tag=LCDV1gp057;product=hypothetical protein;protein_id=NP_078701.1
+NC_001824.1	RefSeq	gene	50799	51830	.	-	.	ID=gene-LCDV1gp058;Dbxref=GeneID:1497346;Name=LCDV1gp058;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf30;locus_tag=LCDV1gp058
+NC_001824.1	RefSeq	CDS	50799	51830	.	-	0	ID=cds-NP_078702.1;Parent=gene-LCDV1gp058;Dbxref=GenBank:NP_078702.1,GeneID:1497346;Name=NP_078702.1;gbkey=CDS;locus_tag=LCDV1gp058;product=hypothetical LCDV1 paralog family 2;protein_id=NP_078702.1
+NC_001824.1	RefSeq	gene	51984	52586	.	-	.	ID=gene-LCDV1gp059;Dbxref=GeneID:1497347;Name=LCDV1gp059;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf58;locus_tag=LCDV1gp059
+NC_001824.1	RefSeq	CDS	51984	52586	.	-	0	ID=cds-NP_078703.1;Parent=gene-LCDV1gp059;Dbxref=GenBank:NP_078703.1,GeneID:1497347;Name=NP_078703.1;gbkey=CDS;locus_tag=LCDV1gp059;product=hypothetical protein;protein_id=NP_078703.1
+NC_001824.1	RefSeq	gene	52650	53669	.	-	.	ID=gene-LCDV1gp060;Dbxref=GeneID:1497348;Name=LCDV1gp060;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf32;locus_tag=LCDV1gp060
+NC_001824.1	RefSeq	CDS	52650	53669	.	-	0	ID=cds-NP_078704.1;Parent=gene-LCDV1gp060;Dbxref=GenBank:NP_078704.1,GeneID:1497348;Name=NP_078704.1;gbkey=CDS;locus_tag=LCDV1gp060;product=hypothetical LCDV1 paralog family 2;protein_id=NP_078704.1
+NC_001824.1	RefSeq	gene	53787	54107	.	-	.	ID=gene-LCDV1gp061;Dbxref=GeneID:1497349;Name=LCDV1gp061;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf95;locus_tag=LCDV1gp061
+NC_001824.1	RefSeq	CDS	53787	54107	.	-	0	ID=cds-NP_078705.1;Parent=gene-LCDV1gp061;Dbxref=GenBank:NP_078705.1,GeneID:1497349;Name=NP_078705.1;gbkey=CDS;locus_tag=LCDV1gp061;product=hypothetical protein;protein_id=NP_078705.1
+NC_001824.1	RefSeq	gene	54142	54309	.	-	.	ID=gene-LCDV1gp062;Dbxref=GeneID:1497350;Name=LCDV1gp062;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf139;locus_tag=LCDV1gp062
+NC_001824.1	RefSeq	CDS	54142	54309	.	-	0	ID=cds-NP_078706.1;Parent=gene-LCDV1gp062;Dbxref=GenBank:NP_078706.1,GeneID:1497350;Name=NP_078706.1;gbkey=CDS;locus_tag=LCDV1gp062;product=hypothetical protein;protein_id=NP_078706.1
+NC_001824.1	RefSeq	gene	54344	54736	.	-	.	ID=gene-LCDV1gp063;Dbxref=GeneID:1497351;Name=LCDV1gp063;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf86;locus_tag=LCDV1gp063
+NC_001824.1	RefSeq	CDS	54344	54736	.	-	0	ID=cds-NP_078707.1;Parent=gene-LCDV1gp063;Dbxref=GenBank:NP_078707.1,GeneID:1497351;Name=NP_078707.1;gbkey=CDS;locus_tag=LCDV1gp063;product=hypothetical protein;protein_id=NP_078707.1
+NC_001824.1	RefSeq	gene	54759	55256	.	-	.	ID=gene-LCDV1gp064;Dbxref=GeneID:1497352;Name=LCDV1gp064;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf69;locus_tag=LCDV1gp064
+NC_001824.1	RefSeq	CDS	54759	55256	.	-	0	ID=cds-NP_078708.1;Parent=gene-LCDV1gp064;Dbxref=GenBank:NP_078708.1,GeneID:1497352;Name=NP_078708.1;gbkey=CDS;locus_tag=LCDV1gp064;product=hypothetical protein;protein_id=NP_078708.1
+NC_001824.1	RefSeq	gene	55820	56008	.	-	.	ID=gene-LCDV1gp065;Dbxref=GeneID:1497353;Name=LCDV1gp065;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf130;locus_tag=LCDV1gp065
+NC_001824.1	RefSeq	CDS	55820	56008	.	-	0	ID=cds-NP_078710.1;Parent=gene-LCDV1gp065;Dbxref=GenBank:NP_078710.1,GeneID:1497353;Name=NP_078710.1;gbkey=CDS;locus_tag=LCDV1gp065;product=hypothetical protein;protein_id=NP_078710.1
+NC_001824.1	RefSeq	gene	55968	56201	.	-	.	ID=gene-LCDV1gp066;Dbxref=GeneID:1497354;Name=LCDV1gp066;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf113;locus_tag=LCDV1gp066
+NC_001824.1	RefSeq	CDS	55968	56201	.	-	0	ID=cds-NP_078712.1;Parent=gene-LCDV1gp066;Dbxref=GenBank:NP_078712.1,GeneID:1497354;Name=NP_078712.1;gbkey=CDS;locus_tag=LCDV1gp066;product=hypothetical protein;protein_id=NP_078712.1
+NC_001824.1	RefSeq	gene	56274	56987	.	+	.	ID=gene-LCDV1gp067;Dbxref=GeneID:1497355;Name=LCDV1gp067;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf49;locus_tag=LCDV1gp067
+NC_001824.1	RefSeq	CDS	56274	56987	.	+	0	ID=cds-NP_078713.1;Parent=gene-LCDV1gp067;Dbxref=GenBank:NP_078713.1,GeneID:1497355;Name=NP_078713.1;gbkey=CDS;locus_tag=LCDV1gp067;product=early iridovirus protein;protein_id=NP_078713.1
+NC_001824.1	RefSeq	gene	57049	57291	.	+	.	ID=gene-LCDV1gp068;Dbxref=GeneID:1497356;Name=LCDV1gp068;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf111;locus_tag=LCDV1gp068
+NC_001824.1	RefSeq	CDS	57049	57291	.	+	0	ID=cds-NP_078716.1;Parent=gene-LCDV1gp068;Dbxref=GenBank:NP_078716.1,GeneID:1497356;Name=NP_078716.1;gbkey=CDS;locus_tag=LCDV1gp068;product=hypothetical protein;protein_id=NP_078716.1
+NC_001824.1	RefSeq	gene	57283	59907	.	-	.	ID=gene-LCDV1gp069;Dbxref=GeneID:1497357;Name=LCDV1gp069;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf6;locus_tag=LCDV1gp069
+NC_001824.1	RefSeq	CDS	57283	59907	.	-	0	ID=cds-NP_078717.1;Parent=gene-LCDV1gp069;Dbxref=GenBank:NP_078717.1,GeneID:1497357;Name=NP_078717.1;gbkey=CDS;locus_tag=LCDV1gp069;product=DNA primase;protein_id=NP_078717.1
+NC_001824.1	RefSeq	gene	59984	62818	.	-	.	ID=gene-LCDV1gp070;Dbxref=GeneID:1497358;Name=LCDV1gp070;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf4;locus_tag=LCDV1gp070
+NC_001824.1	RefSeq	CDS	59984	62818	.	-	0	ID=cds-NP_078720.1;Parent=gene-LCDV1gp070;Dbxref=GenBank:NP_078720.1,GeneID:1497358;Name=NP_078720.1;gbkey=CDS;locus_tag=LCDV1gp070;product=SWI/SNF2 family helicase;protein_id=NP_078720.1
+NC_001824.1	RefSeq	gene	62921	63283	.	-	.	ID=gene-LCDV1gp071;Dbxref=GeneID:1497359;Name=LCDV1gp071;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf90;locus_tag=LCDV1gp071
+NC_001824.1	RefSeq	CDS	62921	63283	.	-	0	ID=cds-NP_078723.1;Parent=gene-LCDV1gp071;Dbxref=GenBank:NP_078723.1,GeneID:1497359;Name=NP_078723.1;gbkey=CDS;locus_tag=LCDV1gp071;product=hypothetical protein;protein_id=NP_078723.1
+NC_001824.1	RefSeq	gene	63353	66151	.	+	.	ID=gene-LCDV1gp072;Dbxref=GeneID:1497360;Name=LCDV1gp072;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf5;locus_tag=LCDV1gp072
+NC_001824.1	RefSeq	CDS	63353	66151	.	+	0	ID=cds-NP_078724.1;Parent=gene-LCDV1gp072;Dbxref=GenBank:NP_078724.1,GeneID:1497360;Name=NP_078724.1;gbkey=CDS;locus_tag=LCDV1gp072;product=DNA polymerase family B;protein_id=NP_078724.1
+NC_001824.1	RefSeq	gene	66272	66859	.	+	.	ID=gene-LCDV1gp073;Dbxref=GeneID:1497361;Name=LCDV1gp073;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf60;locus_tag=LCDV1gp073
+NC_001824.1	RefSeq	CDS	66272	66859	.	+	0	ID=cds-NP_078725.1;Parent=gene-LCDV1gp073;Dbxref=GenBank:NP_078725.1,GeneID:1497361;Name=NP_078725.1;gbkey=CDS;locus_tag=LCDV1gp073;product=thymidylate kinase;protein_id=NP_078725.1
+NC_001824.1	RefSeq	gene	66939	67694	.	+	.	ID=gene-LCDV1gp074;Dbxref=GeneID:1497362;Name=LCDV1gp074;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf44;locus_tag=LCDV1gp074
+NC_001824.1	RefSeq	CDS	66939	67694	.	+	0	ID=cds-NP_078726.1;Parent=gene-LCDV1gp074;Dbxref=GenBank:NP_078726.1,GeneID:1497362;Name=NP_078726.1;gbkey=CDS;locus_tag=LCDV1gp074;product=Ribonuclease III;protein_id=NP_078726.1
+NC_001824.1	RefSeq	gene	67741	68406	.	+	.	ID=gene-LCDV1gp075;Dbxref=GeneID:1497363;Name=LCDV1gp075;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf52;locus_tag=LCDV1gp075
+NC_001824.1	RefSeq	CDS	67741	68406	.	+	0	ID=cds-NP_078727.1;Parent=gene-LCDV1gp075;Dbxref=GenBank:NP_078727.1,GeneID:1497363;Name=NP_078727.1;gbkey=CDS;locus_tag=LCDV1gp075;product=hypothetical protein;protein_id=NP_078727.1
+NC_001824.1	RefSeq	gene	68512	68901	.	+	.	ID=gene-LCDV1gp076;Dbxref=GeneID:1497364;Name=LCDV1gp076;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf87;locus_tag=LCDV1gp076
+NC_001824.1	RefSeq	CDS	68512	68901	.	+	0	ID=cds-NP_078728.1;Parent=gene-LCDV1gp076;Dbxref=GenBank:NP_078728.1,GeneID:1497364;Name=NP_078728.1;gbkey=CDS;locus_tag=LCDV1gp076;product=uncharacterized LCDV1 paralog family 1;protein_id=NP_078728.1
+NC_001824.1	RefSeq	gene	68991	70394	.	-	.	ID=gene-LCDV1gp077;Dbxref=GeneID:1497365;Name=LCDV1gp077;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf17;locus_tag=LCDV1gp077
+NC_001824.1	RefSeq	CDS	68991	70394	.	-	0	ID=cds-NP_078729.1;Parent=gene-LCDV1gp077;Dbxref=GenBank:NP_078729.1,GeneID:1497365;Name=NP_078729.1;gbkey=CDS;locus_tag=LCDV1gp077;product=Phosphotransferase;protein_id=NP_078729.1
+NC_001824.1	RefSeq	gene	70462	70779	.	-	.	ID=gene-LCDV1gp078;Dbxref=GeneID:1497366;Name=LCDV1gp078;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf96;locus_tag=LCDV1gp078
+NC_001824.1	RefSeq	CDS	70462	70779	.	-	0	ID=cds-NP_078731.1;Parent=gene-LCDV1gp078;Dbxref=GenBank:NP_078731.1,GeneID:1497366;Name=NP_078731.1;gbkey=CDS;locus_tag=LCDV1gp078;product=hypothetical protein;protein_id=NP_078731.1
+NC_001824.1	RefSeq	gene	70802	71332	.	+	.	ID=gene-LCDV1gp079;Dbxref=GeneID:1497367;Name=LCDV1gp079;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf63;locus_tag=LCDV1gp079
+NC_001824.1	RefSeq	CDS	70802	71332	.	+	0	ID=cds-NP_078732.1;Parent=gene-LCDV1gp079;Dbxref=GenBank:NP_078732.1,GeneID:1497367;Name=NP_078732.1;gbkey=CDS;locus_tag=LCDV1gp079;product=hypothetical protein;protein_id=NP_078732.1
+NC_001824.1	RefSeq	gene	71395	72774	.	-	.	ID=gene-LCDV1gp080;Dbxref=GeneID:1497288;Name=TK;gbkey=Gene;gene=TK;gene_biotype=protein_coding;gene_synonym=major capsid protein;locus_tag=LCDV1gp080
+NC_001824.1	RefSeq	CDS	71395	72774	.	-	0	ID=cds-NP_044812.1;Parent=gene-LCDV1gp080;Dbxref=GenBank:NP_044812.1,GeneID:1497288;Name=NP_044812.1;gbkey=CDS;gene=TK;locus_tag=LCDV1gp080;product=major capsid protein;protein_id=NP_044812.1
+NC_001824.1	RefSeq	gene	72962	73486	.	-	.	ID=gene-LCDV1gp081;Dbxref=GeneID:1497368;Name=LCDV1gp081;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf65;locus_tag=LCDV1gp081
+NC_001824.1	RefSeq	CDS	72962	73486	.	-	0	ID=cds-NP_078734.1;Parent=gene-LCDV1gp081;Dbxref=GenBank:NP_078734.1,GeneID:1497368;Name=NP_078734.1;gbkey=CDS;locus_tag=LCDV1gp081;product=hypothetical protein;protein_id=NP_078734.1
+NC_001824.1	RefSeq	gene	73578	74093	.	+	.	ID=gene-LCDV1gp082;Dbxref=GeneID:1497369;Name=LCDV1gp082;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf66;locus_tag=LCDV1gp082
+NC_001824.1	RefSeq	CDS	73578	74093	.	+	0	ID=cds-NP_078736.1;Parent=gene-LCDV1gp082;Dbxref=GenBank:NP_078736.1,GeneID:1497369;Name=NP_078736.1;gbkey=CDS;locus_tag=LCDV1gp082;product=hypothetical protein;protein_id=NP_078736.1
+NC_001824.1	RefSeq	gene	74128	74781	.	-	.	ID=gene-LCDV1gp083;Dbxref=GeneID:1497370;Name=LCDV1gp083;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf53;locus_tag=LCDV1gp083
+NC_001824.1	RefSeq	CDS	74128	74781	.	-	0	ID=cds-NP_078737.1;Parent=gene-LCDV1gp083;Dbxref=GenBank:NP_078737.1,GeneID:1497370;Name=NP_078737.1;gbkey=CDS;locus_tag=LCDV1gp083;product=hypothetical protein;protein_id=NP_078737.1
+NC_001824.1	RefSeq	gene	74926	75408	.	+	.	ID=gene-LCDV1gp084;Dbxref=GeneID:1497371;Name=LCDV1gp084;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf72;locus_tag=LCDV1gp084
+NC_001824.1	RefSeq	CDS	74926	75408	.	+	0	ID=cds-NP_078738.1;Parent=gene-LCDV1gp084;Dbxref=GenBank:NP_078738.1,GeneID:1497371;Name=NP_078738.1;gbkey=CDS;locus_tag=LCDV1gp084;product=hypothetical protein;protein_id=NP_078738.1
+NC_001824.1	RefSeq	gene	75458	76477	.	-	.	ID=gene-LCDV1gp085;Dbxref=GeneID:1497372;Name=LCDV1gp085;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf31;locus_tag=LCDV1gp085
+NC_001824.1	RefSeq	CDS	75458	76477	.	-	0	ID=cds-NP_078739.1;Parent=gene-LCDV1gp085;Dbxref=GenBank:NP_078739.1,GeneID:1497372;Name=NP_078739.1;gbkey=CDS;locus_tag=LCDV1gp085;product=Hydroxysteroid dehydrogenase;protein_id=NP_078739.1
+NC_001824.1	RefSeq	repeat_region	75570	76988	.	+	.	ID=id-NC_001824.1:75570..76988;Note=repetitive element;gbkey=repeat_region
+NC_001824.1	RefSeq	gene	76704	77612	.	+	.	ID=gene-LCDV1gp086;Dbxref=GeneID:1497373;Name=LCDV1gp086;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf38;locus_tag=LCDV1gp086
+NC_001824.1	RefSeq	CDS	76704	77612	.	+	0	ID=cds-NP_078740.1;Parent=gene-LCDV1gp086;Dbxref=GenBank:NP_078740.1,GeneID:1497373;Name=NP_078740.1;gbkey=CDS;locus_tag=LCDV1gp086;product=hypothetical protein;protein_id=NP_078740.1
+NC_001824.1	RefSeq	gene	77708	78493	.	-	.	ID=gene-LCDV1gp087;Dbxref=GeneID:1497374;Name=LCDV1gp087;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf41;locus_tag=LCDV1gp087
+NC_001824.1	RefSeq	CDS	77708	78493	.	-	0	ID=cds-NP_078741.1;Parent=gene-LCDV1gp087;Dbxref=GenBank:NP_078741.1,GeneID:1497374;Name=NP_078741.1;gbkey=CDS;locus_tag=LCDV1gp087;product=hypothetical protein;protein_id=NP_078741.1
+NC_001824.1	RefSeq	gene	78543	80009	.	-	.	ID=gene-LCDV1gp088;Dbxref=GeneID:1497375;Name=LCDV1gp088;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf16;locus_tag=LCDV1gp088
+NC_001824.1	RefSeq	CDS	78543	80009	.	-	0	ID=cds-NP_078744.1;Parent=gene-LCDV1gp088;Dbxref=GenBank:NP_078744.1,GeneID:1497375;Name=NP_078744.1;gbkey=CDS;locus_tag=LCDV1gp088;product=hypothetical protein;protein_id=NP_078744.1
+NC_001824.1	RefSeq	gene	80159	81193	.	-	.	ID=gene-LCDV1gp089;Dbxref=GeneID:1497376;Name=LCDV1gp089;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf29;locus_tag=LCDV1gp089
+NC_001824.1	RefSeq	CDS	80159	81193	.	-	0	ID=cds-NP_078745.1;Parent=gene-LCDV1gp089;Dbxref=GenBank:NP_078745.1,GeneID:1497376;Name=NP_078745.1;gbkey=CDS;locus_tag=LCDV1gp089;product=Membrane (myristylated) protein;protein_id=NP_078745.1
+NC_001824.1	RefSeq	gene	81357	82688	.	+	.	ID=gene-LCDV1gp090;Dbxref=GeneID:1497377;Name=LCDV1gp090;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf22;locus_tag=LCDV1gp090
+NC_001824.1	RefSeq	CDS	81357	82688	.	+	0	ID=cds-NP_078746.1;Parent=gene-LCDV1gp090;Dbxref=GenBank:NP_078746.1,GeneID:1497377;Name=NP_078746.1;gbkey=CDS;locus_tag=LCDV1gp090;product=hypothetical protein;protein_id=NP_078746.1
+NC_001824.1	RefSeq	gene	82691	83446	.	-	.	ID=gene-LCDV1gp091;Dbxref=GeneID:1497378;Name=LCDV1gp091;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf43;locus_tag=LCDV1gp091
+NC_001824.1	RefSeq	CDS	82691	83446	.	-	0	ID=cds-NP_078747.1;Parent=gene-LCDV1gp091;Dbxref=GenBank:NP_078747.1,GeneID:1497378;Name=NP_078747.1;gbkey=CDS;locus_tag=LCDV1gp091;product=Putative replication factor and/or DNA binding/packing protein;protein_id=NP_078747.1
+NC_001824.1	RefSeq	gene	83522	86779	.	+	.	ID=gene-LCDV1gp092;Dbxref=GeneID:1497379;Name=LCDV1gp092;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf2;locus_tag=LCDV1gp092
+NC_001824.1	RefSeq	CDS	83522	86779	.	+	0	ID=cds-NP_078748.1;Parent=gene-LCDV1gp092;Dbxref=GenBank:NP_078748.1,GeneID:1497379;Name=NP_078748.1;gbkey=CDS;locus_tag=LCDV1gp092;product=hypothetical protein;protein_id=NP_078748.1
+NC_001824.1	RefSeq	gene	86774	87577	.	-	.	ID=gene-LCDV1gp093;Dbxref=GeneID:1497380;Name=LCDV1gp093;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf40;locus_tag=LCDV1gp093
+NC_001824.1	RefSeq	CDS	86774	87577	.	-	0	ID=cds-NP_078749.1;Parent=gene-LCDV1gp093;Dbxref=GenBank:NP_078749.1,GeneID:1497380;Name=NP_078749.1;gbkey=CDS;locus_tag=LCDV1gp093;product=TNF/TNFR- and CUB-domains protein;protein_id=NP_078749.1
+NC_001824.1	RefSeq	gene	87651	87989	.	+	.	ID=gene-LCDV1gp094;Dbxref=GeneID:1497381;Name=LCDV1gp094;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf94;locus_tag=LCDV1gp094
+NC_001824.1	RefSeq	CDS	87651	87989	.	+	0	ID=cds-NP_078751.1;Parent=gene-LCDV1gp094;Dbxref=GenBank:NP_078751.1,GeneID:1497381;Name=NP_078751.1;gbkey=CDS;locus_tag=LCDV1gp094;product=hypothetical protein;protein_id=NP_078751.1
+NC_001824.1	RefSeq	gene	87994	88197	.	+	.	ID=gene-LCDV1gp095;Dbxref=GeneID:1497382;Name=LCDV1gp095;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf121;locus_tag=LCDV1gp095
+NC_001824.1	RefSeq	CDS	87994	88197	.	+	0	ID=cds-NP_078752.1;Parent=gene-LCDV1gp095;Dbxref=GenBank:NP_078752.1,GeneID:1497382;Name=NP_078752.1;gbkey=CDS;locus_tag=LCDV1gp095;product=hypothetical protein;protein_id=NP_078752.1
+NC_001824.1	RefSeq	gene	88235	89572	.	-	.	ID=gene-LCDV1gp096;Dbxref=GeneID:1497383;Name=LCDV1gp096;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf21;locus_tag=LCDV1gp096
+NC_001824.1	RefSeq	CDS	88235	89572	.	-	0	ID=cds-NP_078753.1;Parent=gene-LCDV1gp096;Dbxref=GenBank:NP_078753.1,GeneID:1497383;Name=NP_078753.1;gbkey=CDS;locus_tag=LCDV1gp096;product=hypothetical protein;protein_id=NP_078753.1
+NC_001824.1	RefSeq	gene	89590	89859	.	+	.	ID=gene-LCDV1gp097;Dbxref=GeneID:1497384;Name=LCDV1gp097;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf105;locus_tag=LCDV1gp097
+NC_001824.1	RefSeq	CDS	89590	89859	.	+	0	ID=cds-NP_078754.1;Parent=gene-LCDV1gp097;Dbxref=GenBank:NP_078754.1,GeneID:1497384;Name=NP_078754.1;gbkey=CDS;locus_tag=LCDV1gp097;product=Transcription factor SII homolog;protein_id=NP_078754.1
+NC_001824.1	RefSeq	gene	89868	90068	.	-	.	ID=gene-LCDV1gp098;Dbxref=GeneID:1497385;Name=LCDV1gp098;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf124;locus_tag=LCDV1gp098
+NC_001824.1	RefSeq	CDS	89868	90068	.	-	0	ID=cds-NP_078755.1;Parent=gene-LCDV1gp098;Dbxref=GenBank:NP_078755.1,GeneID:1497385;Name=NP_078755.1;gbkey=CDS;locus_tag=LCDV1gp098;product=hypothetical protein;protein_id=NP_078755.1
+NC_001824.1	RefSeq	gene	90090	91733	.	-	.	ID=gene-LCDV1gp099;Dbxref=GeneID:1497386;Name=LCDV1gp099;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf12;locus_tag=LCDV1gp099
+NC_001824.1	RefSeq	CDS	90090	91733	.	-	0	ID=cds-NP_078756.1;Parent=gene-LCDV1gp099;Dbxref=GenBank:NP_078756.1,GeneID:1497386;Name=NP_078756.1;gbkey=CDS;locus_tag=LCDV1gp099;product=ribonucleoside-diphosphate reductase large subunit;protein_id=NP_078756.1
+NC_001824.1	RefSeq	gene	91747	92451	.	-	.	ID=gene-LCDV1gp100;Dbxref=GeneID:1497387;Name=LCDV1gp100;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf50;locus_tag=LCDV1gp100
+NC_001824.1	RefSeq	CDS	91747	92451	.	-	0	ID=cds-NP_078757.1;Parent=gene-LCDV1gp100;Dbxref=GenBank:NP_078757.1,GeneID:1497387;Name=NP_078757.1;gbkey=CDS;locus_tag=LCDV1gp100;product=hypothetical protein;protein_id=NP_078757.1
+NC_001824.1	RefSeq	gene	92502	93899	.	-	.	ID=gene-LCDV1gp101;Dbxref=GeneID:1497388;Name=LCDV1gp101;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf18;locus_tag=LCDV1gp101
+NC_001824.1	RefSeq	CDS	92502	93899	.	-	0	ID=cds-NP_078759.1;Parent=gene-LCDV1gp101;Dbxref=GenBank:NP_078759.1,GeneID:1497388;Name=NP_078759.1;gbkey=CDS;locus_tag=LCDV1gp101;product=hypothetical protein;protein_id=NP_078759.1
+NC_001824.1	RefSeq	gene	93998	94351	.	+	.	ID=gene-LCDV1gp102;Dbxref=GeneID:1497389;Name=LCDV1gp102;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf93;locus_tag=LCDV1gp102
+NC_001824.1	RefSeq	CDS	93998	94351	.	+	0	ID=cds-NP_078760.1;Parent=gene-LCDV1gp102;Dbxref=GenBank:NP_078760.1,GeneID:1497389;Name=NP_078760.1;gbkey=CDS;locus_tag=LCDV1gp102;product=hypothetical protein;protein_id=NP_078760.1
+NC_001824.1	RefSeq	gene	94402	94848	.	+	.	ID=gene-LCDV1gp103;Dbxref=GeneID:1497390;Name=LCDV1gp103;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf76;locus_tag=LCDV1gp103
+NC_001824.1	RefSeq	CDS	94402	94848	.	+	0	ID=cds-NP_078761.1;Parent=gene-LCDV1gp103;Dbxref=GenBank:NP_078761.1,GeneID:1497390;Name=NP_078761.1;gbkey=CDS;locus_tag=LCDV1gp103;product=hypothetical protein;protein_id=NP_078761.1
+NC_001824.1	RefSeq	gene	95002	95532	.	-	.	ID=gene-LCDV1gp104;Dbxref=GeneID:1497391;Name=LCDV1gp104;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf62;locus_tag=LCDV1gp104
+NC_001824.1	RefSeq	CDS	95002	95532	.	-	0	ID=cds-NP_078762.1;Parent=gene-LCDV1gp104;Dbxref=GenBank:NP_078762.1,GeneID:1497391;Name=NP_078762.1;gbkey=CDS;locus_tag=LCDV1gp104;product=hypothetical protein;protein_id=NP_078762.1
+NC_001824.1	RefSeq	gene	95482	96120	.	+	.	ID=gene-LCDV1gp105;Dbxref=GeneID:1497392;Name=LCDV1gp105;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf55;locus_tag=LCDV1gp105
+NC_001824.1	RefSeq	CDS	95482	96120	.	+	0	ID=cds-NP_078763.1;Parent=gene-LCDV1gp105;Dbxref=GenBank:NP_078763.1,GeneID:1497392;Name=NP_078763.1;gbkey=CDS;locus_tag=LCDV1gp105;product=hypothetical protein;protein_id=NP_078763.1
+NC_001824.1	RefSeq	gene	96193	97947	.	-	.	ID=gene-LCDV1gp106;Dbxref=GeneID:1497393;Name=LCDV1gp106;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf10;locus_tag=LCDV1gp106
+NC_001824.1	RefSeq	CDS	96193	97947	.	-	0	ID=cds-NP_078764.1;Parent=gene-LCDV1gp106;Dbxref=GenBank:NP_078764.1,GeneID:1497393;Name=NP_078764.1;gbkey=CDS;locus_tag=LCDV1gp106;product=Putative filamentous protein;protein_id=NP_078764.1
+NC_001824.1	RefSeq	gene	98034	99035	.	+	.	ID=gene-LCDV1gp107;Dbxref=GeneID:1497394;Name=LCDV1gp107;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf34;locus_tag=LCDV1gp107
+NC_001824.1	RefSeq	CDS	98034	99035	.	+	0	ID=cds-NP_078767.1;Parent=gene-LCDV1gp107;Dbxref=GenBank:NP_078767.1,GeneID:1497394;Name=NP_078767.1;gbkey=CDS;locus_tag=LCDV1gp107;product=Putative XPG/RAD2-type nuclease;protein_id=NP_078767.1
+NC_001824.1	RefSeq	gene	99160	99876	.	-	.	ID=gene-LCDV1gp108;Dbxref=GeneID:1497395;Name=LCDV1gp108;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf48;locus_tag=LCDV1gp108
+NC_001824.1	RefSeq	CDS	99160	99876	.	-	0	ID=cds-NP_078768.1;Parent=gene-LCDV1gp108;Dbxref=GenBank:NP_078768.1,GeneID:1497395;Name=NP_078768.1;gbkey=CDS;locus_tag=LCDV1gp108;product=hypothetical protein;protein_id=NP_078768.1
+NC_001824.1	RefSeq	gene	99948	100349	.	+	.	ID=gene-LCDV1gp109;Dbxref=GeneID:1497396;Name=LCDV1gp109;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf84;locus_tag=LCDV1gp109
+NC_001824.1	RefSeq	CDS	99948	100349	.	+	0	ID=cds-NP_078769.1;Parent=gene-LCDV1gp109;Dbxref=GenBank:NP_078769.1,GeneID:1497396;Name=NP_078769.1;gbkey=CDS;locus_tag=LCDV1gp109;product=hypothetical protein;protein_id=NP_078769.1
+NC_001824.1	RefSeq	gene	100468	102651	.	+	.	ID=gene-LCDV1gp110;Dbxref=GeneID:1497397;Name=LCDV1gp110;gbkey=Gene;gene_biotype=protein_coding;gene_synonym=orf8;locus_tag=LCDV1gp110
+NC_001824.1	RefSeq	CDS	100468	102651	.	+	0	ID=cds-NP_078770.1;Parent=gene-LCDV1gp110;Dbxref=GenBank:NP_078770.1,GeneID:1497397;Name=NP_078770.1;gbkey=CDS;locus_tag=LCDV1gp110;product=hypothetical protein;protein_id=NP_078770.1;transl_except=(pos:102649..102651%2Caa:TERM)
+

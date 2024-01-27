@@ -1,0 +1,19 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_014821.1 1 9311
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=75387
+NC_014821.1	RefSeq	region	1	9311	.	+	.	ID=NC_014821.1:1..9311;Dbxref=taxon:75387;country=Italy;gbkey=Src;genome=genomic;isolate=A18;mol_type=genomic RNA;nat-host=Prunus armeniaca variety Sorrentina GF305
+NC_014821.1	RefSeq	five_prime_UTR	1	60	.	+	.	ID=id-NC_014821.1:1..60;gbkey=5'UTR
+NC_014821.1	RefSeq	gene	61	6615	.	+	.	ID=gene-ApLV_gp1;Dbxref=GeneID:10051549;Name=RdRp;gbkey=Gene;gene=RdRp;gene_biotype=protein_coding;locus_tag=ApLV_gp1
+NC_014821.1	RefSeq	CDS	61	6615	.	+	0	ID=cds-YP_004089619.1;Parent=gene-ApLV_gp1;Dbxref=GenBank:YP_004089619.1,GeneID:10051549;Name=YP_004089619.1;gbkey=CDS;gene=RdRp;locus_tag=ApLV_gp1;product=RNA-dependent RNA polymerase;protein_id=YP_004089619.1
+NC_014821.1	RefSeq	gene	6674	7345	.	+	.	ID=gene-ApLV_gp2;Dbxref=GeneID:10051545;Name=tgb1;gbkey=Gene;gene=tgb1;gene_biotype=protein_coding;locus_tag=ApLV_gp2
+NC_014821.1	RefSeq	CDS	6674	7345	.	+	0	ID=cds-YP_004089620.1;Parent=gene-ApLV_gp2;Dbxref=GenBank:YP_004089620.1,GeneID:10051545;Name=YP_004089620.1;gbkey=CDS;gene=tgb1;locus_tag=ApLV_gp2;product=triple gene block 1;protein_id=YP_004089620.1
+NC_014821.1	RefSeq	gene	7347	7706	.	+	.	ID=gene-ApLV_gp3;Dbxref=GeneID:10051546;Name=tgb2;gbkey=Gene;gene=tgb2;gene_biotype=protein_coding;locus_tag=ApLV_gp3
+NC_014821.1	RefSeq	CDS	7347	7706	.	+	0	ID=cds-YP_004089621.1;Parent=gene-ApLV_gp3;Dbxref=GenBank:YP_004089621.1,GeneID:10051546;Name=YP_004089621.1;gbkey=CDS;gene=tgb2;locus_tag=ApLV_gp3;product=triple gene block 2;protein_id=YP_004089621.1
+NC_014821.1	RefSeq	gene	7615	7827	.	+	.	ID=gene-ApLV_gp4;Dbxref=GeneID:10051547;Name=tgb3;gbkey=Gene;gene=tgb3;gene_biotype=protein_coding;locus_tag=ApLV_gp4
+NC_014821.1	RefSeq	CDS	7615	7827	.	+	0	ID=cds-YP_004089622.1;Parent=gene-ApLV_gp4;Dbxref=GenBank:YP_004089622.1,GeneID:10051547;Name=YP_004089622.1;gbkey=CDS;gene=tgb3;locus_tag=ApLV_gp4;product=triple gene block 3;protein_id=YP_004089622.1
+NC_014821.1	RefSeq	gene	7913	9178	.	+	.	ID=gene-ApLV_gp5;Dbxref=GeneID:10051548;Name=cp;gbkey=Gene;gene=cp;gene_biotype=protein_coding;locus_tag=ApLV_gp5
+NC_014821.1	RefSeq	CDS	7913	9178	.	+	0	ID=cds-YP_004089623.1;Parent=gene-ApLV_gp5;Dbxref=GenBank:YP_004089623.1,GeneID:10051548;Name=YP_004089623.1;gbkey=CDS;gene=cp;locus_tag=ApLV_gp5;product=coat protein;protein_id=YP_004089623.1
+NC_014821.1	RefSeq	three_prime_UTR	9173	9311	.	+	.	ID=id-NC_014821.1:9173..9311;gbkey=3'UTR
+

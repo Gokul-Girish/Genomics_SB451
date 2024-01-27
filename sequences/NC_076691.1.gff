@@ -1,0 +1,9 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_076691.1 1 18371
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2599957
+NC_076691.1	RefSeq	region	1	18371	.	+	.	ID=NC_076691.1:1..18371;Dbxref=taxon:2599957;collected-by=Maria Aurea S.C. Picarelli;collection-date=2013;country=Brazil;gbkey=Src;genome=genomic;isolate=BR20;mol_type=genomic RNA;nat-host=Rhizoctonia solani AG2-2 LP
+NC_076691.1	RefSeq	gene	753	16787	.	+	.	ID=gene-QKQ65_gp1;Dbxref=GeneID:80538181;Name=QKQ65_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=QKQ65_gp1
+NC_076691.1	RefSeq	CDS	753	16787	.	+	0	ID=cds-YP_010799752.1;Parent=gene-QKQ65_gp1;Dbxref=GenBank:YP_010799752.1,GeneID:80538181;Name=YP_010799752.1;gbkey=CDS;locus_tag=QKQ65_gp1;product=polyprotein;protein_id=YP_010799752.1
+

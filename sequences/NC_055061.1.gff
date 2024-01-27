@@ -1,0 +1,112 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_055061.1 1 17253
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1975614
+NC_055061.1	RefSeq	region	1	17253	.	+	.	ID=NC_055061.1:1..17253;Dbxref=taxon:1975614;collected-by=Baixin Wang;country=USA: College Station%2C TX;gbkey=Src;genome=genomic;isolation-source=soil;mol_type=genomic DNA;nat-host=Rhodococcus opacus PD631
+NC_055061.1	RefSeq	gene	89	371	.	-	.	ID=gene-KMD62_gp01;Dbxref=GeneID:65073169;Name=KMD62_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp01;old_locus_tag=Toil_gp01
+NC_055061.1	RefSeq	CDS	90	359	.	-	0	ID=cds-YP_010084097.1;Parent=gene-KMD62_gp01;Dbxref=GenBank:YP_010084097.1,GeneID:65073169;Name=YP_010084097.1;gbkey=CDS;locus_tag=KMD62_gp01;product=hypothetical protein;protein_id=YP_010084097.1;transl_table=11
+NC_055061.1	RefSeq	gene	355	575	.	-	.	ID=gene-KMD62_gp02;Dbxref=GeneID:65073135;Name=KMD62_gp02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp02;old_locus_tag=Toil_gp02
+NC_055061.1	RefSeq	CDS	356	559	.	-	0	ID=cds-YP_010084098.1;Parent=gene-KMD62_gp02;Dbxref=GenBank:YP_010084098.1,GeneID:65073135;Name=YP_010084098.1;gbkey=CDS;locus_tag=KMD62_gp02;product=hypothetical protein;protein_id=YP_010084098.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	572	574	.	-	.	ID=id-KMD62_gp02;Parent=gene-KMD62_gp02;Dbxref=GeneID:65073135;gbkey=regulatory;locus_tag=KMD62_gp02;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	ribosome_entry_site	367	370	.	-	.	ID=id-NC_055061.1:367..370;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	616	907	.	-	.	ID=gene-KMD62_gp03;Dbxref=GeneID:65073136;Name=KMD62_gp03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp03;old_locus_tag=Toil_gp03
+NC_055061.1	RefSeq	CDS	617	892	.	-	0	ID=cds-YP_010084099.1;Parent=gene-KMD62_gp03;Dbxref=GenBank:YP_010084099.1,GeneID:65073136;Name=YP_010084099.1;gbkey=CDS;locus_tag=KMD62_gp03;product=hypothetical protein;protein_id=YP_010084099.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	903	906	.	-	.	ID=id-KMD62_gp03;Parent=gene-KMD62_gp03;Dbxref=GeneID:65073136;gbkey=regulatory;locus_tag=KMD62_gp03;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	1010	1263	.	-	.	ID=gene-KMD62_gp04;Dbxref=GeneID:65073137;Name=KMD62_gp04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp04;old_locus_tag=Toil_gp04
+NC_055061.1	RefSeq	CDS	1011	1247	.	-	0	ID=cds-YP_010084100.1;Parent=gene-KMD62_gp04;Dbxref=GenBank:YP_010084100.1,GeneID:65073137;Name=YP_010084100.1;gbkey=CDS;locus_tag=KMD62_gp04;product=hypothetical protein;protein_id=YP_010084100.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	1259	1262	.	-	.	ID=id-KMD62_gp04;Parent=gene-KMD62_gp04;Dbxref=GeneID:65073137;gbkey=regulatory;locus_tag=KMD62_gp04;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	1253	1693	.	-	.	ID=gene-KMD62_gp05;Dbxref=GeneID:65073138;Name=KMD62_gp05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp05;old_locus_tag=Toil_gp05
+NC_055061.1	RefSeq	CDS	1254	1679	.	-	0	ID=cds-YP_010084101.1;Parent=gene-KMD62_gp05;Dbxref=GenBank:YP_010084101.1,GeneID:65073138;Name=YP_010084101.1;gbkey=CDS;locus_tag=KMD62_gp05;product=hypothetical protein;protein_id=YP_010084101.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	1688	1692	.	-	.	ID=id-KMD62_gp05;Parent=gene-KMD62_gp05;Dbxref=GeneID:65073138;gbkey=regulatory;locus_tag=KMD62_gp05;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	1730	2033	.	-	.	ID=gene-KMD62_gp06;Dbxref=GeneID:65073139;Name=KMD62_gp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp06;old_locus_tag=Toil_gp06
+NC_055061.1	RefSeq	CDS	1731	2018	.	-	0	ID=cds-YP_010084102.1;Parent=gene-KMD62_gp06;Dbxref=GenBank:YP_010084102.1,GeneID:65073139;Name=YP_010084102.1;gbkey=CDS;locus_tag=KMD62_gp06;product=hypothetical protein;protein_id=YP_010084102.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	2029	2032	.	-	.	ID=id-KMD62_gp06;Parent=gene-KMD62_gp06;Dbxref=GeneID:65073139;gbkey=regulatory;locus_tag=KMD62_gp06;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	2014	3815	.	-	.	ID=gene-KMD62_gp07;Dbxref=GeneID:65073140;Name=KMD62_gp07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp07;old_locus_tag=Toil_gp07
+NC_055061.1	RefSeq	CDS	2015	3805	.	-	0	ID=cds-YP_010084103.1;Parent=gene-KMD62_gp07;Dbxref=InterPro:IPR004868,InterPro:IPR023211,GenBank:YP_010084103.1,GeneID:65073140;Name=YP_010084103.1;gbkey=CDS;locus_tag=KMD62_gp07;product=DNA polymerase;protein_id=YP_010084103.1;transl_table=11
+NC_055061.1	RefSeq	gene	3731	4192	.	-	.	ID=gene-KMD62_gp08;Dbxref=GeneID:65073141;Name=KMD62_gp08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp08;old_locus_tag=Toil_gp08
+NC_055061.1	RefSeq	CDS	3732	4181	.	-	0	ID=cds-YP_010084104.1;Parent=gene-KMD62_gp08;Dbxref=GenBank:YP_010084104.1,GeneID:65073141;Name=YP_010084104.1;gbkey=CDS;locus_tag=KMD62_gp08;product=hypothetical protein;protein_id=YP_010084104.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	4187	4191	.	-	.	ID=id-KMD62_gp08;Parent=gene-KMD62_gp08;Dbxref=GeneID:65073141;gbkey=regulatory;locus_tag=KMD62_gp08;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	ribosome_entry_site	3811	3814	.	-	.	ID=id-NC_055061.1:3811..3814;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	4244	4793	.	-	.	ID=gene-KMD62_gp09;Dbxref=GeneID:65073142;Name=KMD62_gp09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp09;old_locus_tag=Toil_gp09
+NC_055061.1	RefSeq	CDS	4245	4781	.	-	0	ID=cds-YP_010084105.1;Parent=gene-KMD62_gp09;Dbxref=GenBank:YP_010084105.1,GeneID:65073142;Name=YP_010084105.1;gbkey=CDS;locus_tag=KMD62_gp09;product=hypothetical protein;protein_id=YP_010084105.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	4788	4792	.	-	.	ID=id-KMD62_gp09;Parent=gene-KMD62_gp09;Dbxref=GeneID:65073142;gbkey=regulatory;locus_tag=KMD62_gp09;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	4850	5299	.	+	.	ID=gene-KMD62_gp10;Dbxref=GeneID:65073143;Name=KMD62_gp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp10;old_locus_tag=Toil_gp10
+NC_055061.1	RefSeq	CDS	4865	5299	.	+	0	ID=cds-YP_010084106.1;Parent=gene-KMD62_gp10;Dbxref=GenBank:YP_010084106.1,GeneID:65073143;Name=YP_010084106.1;gbkey=CDS;locus_tag=KMD62_gp10;product=hypothetical protein;protein_id=YP_010084106.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	4850	4852	.	+	.	ID=id-KMD62_gp10;Parent=gene-KMD62_gp10;Dbxref=GeneID:65073143;gbkey=regulatory;locus_tag=KMD62_gp10;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	5286	5793	.	+	.	ID=gene-KMD62_gp11;Dbxref=GeneID:65073144;Name=KMD62_gp11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp11;old_locus_tag=Toil_gp11
+NC_055061.1	RefSeq	CDS	5296	5793	.	+	0	ID=cds-YP_010084107.1;Parent=gene-KMD62_gp11;Dbxref=GenBank:YP_010084107.1,GeneID:65073144;Name=YP_010084107.1;gbkey=CDS;locus_tag=KMD62_gp11;product=hypothetical protein;protein_id=YP_010084107.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	5286	5288	.	+	.	ID=id-NC_055061.1:5286..5288;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	5771	6499	.	+	.	ID=gene-KMD62_gp12;Dbxref=GeneID:65073145;Name=KMD62_gp12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp12;old_locus_tag=Toil_gp12
+NC_055061.1	RefSeq	CDS	5783	6499	.	+	0	ID=cds-YP_010084108.1;Parent=gene-KMD62_gp12;Dbxref=InterPro:IPR027417,GenBank:YP_010084108.1,GeneID:65073145;Name=YP_010084108.1;gbkey=CDS;locus_tag=KMD62_gp12;product=terminase large subunit;protein_id=YP_010084108.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	5771	5773	.	+	.	ID=id-NC_055061.1:5771..5773;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	6493	6637	.	+	.	ID=gene-KMD62_gp13;Dbxref=GeneID:65073146;Name=KMD62_gp13;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp13;old_locus_tag=Toil_gp13
+NC_055061.1	RefSeq	CDS	6503	6637	.	+	0	ID=cds-YP_010084109.1;Parent=gene-KMD62_gp13;Dbxref=GenBank:YP_010084109.1,GeneID:65073146;Name=YP_010084109.1;gbkey=CDS;locus_tag=KMD62_gp13;product=hypothetical protein;protein_id=YP_010084109.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	6493	6495	.	+	.	ID=id-KMD62_gp13;Parent=gene-KMD62_gp13;Dbxref=GeneID:65073146;gbkey=regulatory;locus_tag=KMD62_gp13;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	6640	7796	.	+	.	ID=gene-KMD62_gp14;Dbxref=GeneID:65073147;Name=KMD62_gp14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp14;old_locus_tag=Toil_gp14
+NC_055061.1	RefSeq	CDS	6654	7796	.	+	0	ID=cds-YP_010084110.1;Parent=gene-KMD62_gp14;Dbxref=GenBank:YP_010084110.1,GeneID:65073147;Name=YP_010084110.1;Note=HHpred STIV coat 2bbd 97.7%25%3B predicted double beta-barrel fold;gbkey=CDS;locus_tag=KMD62_gp14;product=coat protein;protein_id=YP_010084110.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	6640	6643	.	+	.	ID=id-KMD62_gp14;Parent=gene-KMD62_gp14;Dbxref=GeneID:65073147;gbkey=regulatory;locus_tag=KMD62_gp14;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	7797	7925	.	+	.	ID=gene-KMD62_gp15;Dbxref=GeneID:65073148;Name=KMD62_gp15;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp15;old_locus_tag=Toil_gp15
+NC_055061.1	RefSeq	CDS	7809	7925	.	+	0	ID=cds-YP_010084111.1;Parent=gene-KMD62_gp15;Dbxref=GenBank:YP_010084111.1,GeneID:65073148;Name=YP_010084111.1;gbkey=CDS;locus_tag=KMD62_gp15;product=hypothetical protein;protein_id=YP_010084111.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	7797	7800	.	+	.	ID=id-KMD62_gp15;Parent=gene-KMD62_gp15;Dbxref=GeneID:65073148;gbkey=regulatory;locus_tag=KMD62_gp15;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	7924	8059	.	+	.	ID=gene-KMD62_gp16;Dbxref=GeneID:65073149;Name=KMD62_gp16;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp16;old_locus_tag=Toil_gp16
+NC_055061.1	RefSeq	CDS	7937	8059	.	+	0	ID=cds-YP_010084112.1;Parent=gene-KMD62_gp16;Dbxref=GenBank:YP_010084112.1,GeneID:65073149;Name=YP_010084112.1;gbkey=CDS;locus_tag=KMD62_gp16;product=hypothetical protein;protein_id=YP_010084112.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	7924	7928	.	+	.	ID=id-KMD62_gp16;Parent=gene-KMD62_gp16;Dbxref=GeneID:65073149;gbkey=regulatory;locus_tag=KMD62_gp16;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	8010	8381	.	+	.	ID=gene-KMD62_gp17;Dbxref=GeneID:65073150;Name=KMD62_gp17;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp17;old_locus_tag=Toil_gp17
+NC_055061.1	RefSeq	CDS	8019	8381	.	+	0	ID=cds-YP_010084113.1;Parent=gene-KMD62_gp17;Dbxref=GenBank:YP_010084113.1,GeneID:65073150;Name=YP_010084113.1;gbkey=CDS;locus_tag=KMD62_gp17;product=hypothetical protein;protein_id=YP_010084113.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	8010	8012	.	+	.	ID=id-NC_055061.1:8010..8012;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	8346	8508	.	+	.	ID=gene-KMD62_gp18;Dbxref=GeneID:65073151;Name=KMD62_gp18;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp18;old_locus_tag=Toil_gp18
+NC_055061.1	RefSeq	CDS	8359	8508	.	+	0	ID=cds-YP_010084114.1;Parent=gene-KMD62_gp18;Dbxref=GenBank:YP_010084114.1,GeneID:65073151;Name=YP_010084114.1;gbkey=CDS;locus_tag=KMD62_gp18;product=hypothetical protein;protein_id=YP_010084114.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	8346	8348	.	+	.	ID=id-KMD62_gp18;Parent=gene-KMD62_gp18;Dbxref=GeneID:65073151;gbkey=regulatory;locus_tag=KMD62_gp18;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	8500	9184	.	+	.	ID=gene-KMD62_gp19;Dbxref=GeneID:65073152;Name=KMD62_gp19;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp19;old_locus_tag=Toil_gp19
+NC_055061.1	RefSeq	CDS	8510	9184	.	+	0	ID=cds-YP_010084115.1;Parent=gene-KMD62_gp19;Dbxref=GenBank:YP_010084115.1,GeneID:65073152;Name=YP_010084115.1;gbkey=CDS;locus_tag=KMD62_gp19;product=hypothetical protein;protein_id=YP_010084115.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	8500	8502	.	+	.	ID=id-NC_055061.1:8500..8502;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	9168	10167	.	+	.	ID=gene-KMD62_gp20;Dbxref=GeneID:65073153;Name=KMD62_gp20;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp20;old_locus_tag=Toil_gp20
+NC_055061.1	RefSeq	CDS	9181	10167	.	+	0	ID=cds-YP_010084116.1;Parent=gene-KMD62_gp20;Dbxref=GenBank:YP_010084116.1,GeneID:65073153;Name=YP_010084116.1;gbkey=CDS;locus_tag=KMD62_gp20;product=LysM domain protein;protein_id=YP_010084116.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	9168	9173	.	+	.	ID=id-NC_055061.1:9168..9173;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	10166	10395	.	+	.	ID=gene-KMD62_gp21;Dbxref=GeneID:65073154;Name=KMD62_gp21;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp21;old_locus_tag=Toil_gp21
+NC_055061.1	RefSeq	CDS	10177	10395	.	+	0	ID=cds-YP_010084117.1;Parent=gene-KMD62_gp21;Dbxref=GenBank:YP_010084117.1,GeneID:65073154;Name=YP_010084117.1;gbkey=CDS;locus_tag=KMD62_gp21;product=hypothetical protein;protein_id=YP_010084117.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	10166	10170	.	+	.	ID=id-KMD62_gp21;Parent=gene-KMD62_gp21;Dbxref=GeneID:65073154;gbkey=regulatory;locus_tag=KMD62_gp21;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	10405	10586	.	+	.	ID=gene-KMD62_gp22;Dbxref=GeneID:65073155;Name=KMD62_gp22;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp22;old_locus_tag=Toil_gp22
+NC_055061.1	RefSeq	CDS	10419	10586	.	+	0	ID=cds-YP_010084118.1;Parent=gene-KMD62_gp22;Dbxref=GenBank:YP_010084118.1,GeneID:65073155;Name=YP_010084118.1;gbkey=CDS;locus_tag=KMD62_gp22;product=hypothetical protein;protein_id=YP_010084118.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	10405	10409	.	+	.	ID=id-KMD62_gp22;Parent=gene-KMD62_gp22;Dbxref=GeneID:65073155;gbkey=regulatory;locus_tag=KMD62_gp22;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	10585	11254	.	+	.	ID=gene-KMD62_gp23;Dbxref=GeneID:65073156;Name=KMD62_gp23;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp23;old_locus_tag=Toil_gp23
+NC_055061.1	RefSeq	CDS	10595	11254	.	+	0	ID=cds-YP_010084119.1;Parent=gene-KMD62_gp23;Dbxref=InterPro:IPR023346,GenBank:YP_010084119.1,GeneID:65073156;Name=YP_010084119.1;gbkey=CDS;locus_tag=KMD62_gp23;product=putative entry lysozyme;protein_id=YP_010084119.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	10585	10589	.	+	.	ID=id-KMD62_gp23;Parent=gene-KMD62_gp23;Dbxref=GeneID:65073156;gbkey=regulatory;locus_tag=KMD62_gp23;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	11241	11715	.	+	.	ID=gene-KMD62_gp24;Dbxref=GeneID:65073157;Name=KMD62_gp24;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp24;old_locus_tag=Toil_gp24
+NC_055061.1	RefSeq	CDS	11251	11715	.	+	0	ID=cds-YP_010084120.1;Parent=gene-KMD62_gp24;Dbxref=GenBank:YP_010084120.1,GeneID:65073157;Name=YP_010084120.1;gbkey=CDS;locus_tag=KMD62_gp24;product=hypothetical protein;protein_id=YP_010084120.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	11241	11243	.	+	.	ID=id-KMD62_gp24;Parent=gene-KMD62_gp24;Dbxref=GeneID:65073157;gbkey=regulatory;locus_tag=KMD62_gp24;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	11703	12053	.	+	.	ID=gene-KMD62_gp25;Dbxref=GeneID:65073158;Name=KMD62_gp25;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp25;old_locus_tag=Toil_gp25
+NC_055061.1	RefSeq	CDS	11712	12053	.	+	0	ID=cds-YP_010084121.1;Parent=gene-KMD62_gp25;Dbxref=GenBank:YP_010084121.1,GeneID:65073158;Name=YP_010084121.1;gbkey=CDS;locus_tag=KMD62_gp25;product=hypothetical protein;protein_id=YP_010084121.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	11703	11706	.	+	.	ID=id-KMD62_gp25;Parent=gene-KMD62_gp25;Dbxref=GeneID:65073158;gbkey=regulatory;locus_tag=KMD62_gp25;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	12041	12712	.	+	.	ID=gene-KMD62_gp26;Dbxref=GeneID:65073159;Name=KMD62_gp26;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp26;old_locus_tag=Toil_gp26
+NC_055061.1	RefSeq	CDS	12053	12712	.	+	0	ID=cds-YP_010084122.1;Parent=gene-KMD62_gp26;Dbxref=GenBank:YP_010084122.1,GeneID:65073159;Name=YP_010084122.1;gbkey=CDS;locus_tag=KMD62_gp26;product=virion structural protein;protein_id=YP_010084122.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	12041	12043	.	+	.	ID=id-NC_055061.1:12041..12043;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	12691	12992	.	+	.	ID=gene-KMD62_gp27;Dbxref=GeneID:65073160;Name=KMD62_gp27;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp27;old_locus_tag=Toil_gp27
+NC_055061.1	RefSeq	CDS	12705	12992	.	+	0	ID=cds-YP_010084123.1;Parent=gene-KMD62_gp27;Dbxref=GenBank:YP_010084123.1,GeneID:65073160;Name=YP_010084123.1;gbkey=CDS;locus_tag=KMD62_gp27;product=hypothetical protein;protein_id=YP_010084123.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	12691	12694	.	+	.	ID=id-KMD62_gp27;Parent=gene-KMD62_gp27;Dbxref=GeneID:65073160;gbkey=regulatory;locus_tag=KMD62_gp27;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	12979	13621	.	+	.	ID=gene-KMD62_gp28;Dbxref=GeneID:65073161;Name=KMD62_gp28;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp28;old_locus_tag=Toil_gp28
+NC_055061.1	RefSeq	CDS	12992	13621	.	+	0	ID=cds-YP_010084124.1;Parent=gene-KMD62_gp28;Dbxref=GenBank:YP_010084124.1,GeneID:65073161;Name=YP_010084124.1;gbkey=CDS;locus_tag=KMD62_gp28;product=hypothetical protein;protein_id=YP_010084124.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	12979	12983	.	+	.	ID=id-NC_055061.1:12979..12983;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	13604	14049	.	+	.	ID=gene-KMD62_gp29;Dbxref=GeneID:65073162;Name=KMD62_gp29;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp29;old_locus_tag=Toil_gp29
+NC_055061.1	RefSeq	CDS	13618	14049	.	+	0	ID=cds-YP_010084125.1;Parent=gene-KMD62_gp29;Dbxref=GenBank:YP_010084125.1,GeneID:65073162;Name=YP_010084125.1;gbkey=CDS;locus_tag=KMD62_gp29;product=hypothetical protein;protein_id=YP_010084125.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	13604	13607	.	+	.	ID=id-KMD62_gp29;Parent=gene-KMD62_gp29;Dbxref=GeneID:65073162;gbkey=regulatory;locus_tag=KMD62_gp29;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	14037	15284	.	+	.	ID=gene-KMD62_gp30;Dbxref=GeneID:65073163;Name=KMD62_gp30;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp30;old_locus_tag=Toil_gp30
+NC_055061.1	RefSeq	CDS	14049	15284	.	+	0	ID=cds-YP_010084126.1;Parent=gene-KMD62_gp30;Dbxref=InterPro:IPR008983,GenBank:YP_010084126.1,GeneID:65073163;Name=YP_010084126.1;gbkey=CDS;locus_tag=KMD62_gp30;product=tail protein;protein_id=YP_010084126.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	14037	14040	.	+	.	ID=id-NC_055061.1:14037..14040;gbkey=regulatory;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	15276	15974	.	+	.	ID=gene-KMD62_gp31;Dbxref=GeneID:65073164;Name=KMD62_gp31;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp31;old_locus_tag=Toil_gp31
+NC_055061.1	RefSeq	CDS	15291	15974	.	+	0	ID=cds-YP_010084127.1;Parent=gene-KMD62_gp31;Dbxref=InterPro:IPR009045,GenBank:YP_010084127.1,GeneID:65073164;Name=YP_010084127.1;Note=putative endolysin lysA;gbkey=CDS;locus_tag=KMD62_gp31;product=endolysin;protein_id=YP_010084127.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	15276	15279	.	+	.	ID=id-KMD62_gp31;Parent=gene-KMD62_gp31;Dbxref=GeneID:65073164;gbkey=regulatory;locus_tag=KMD62_gp31;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	15992	16222	.	+	.	ID=gene-KMD62_gp32;Dbxref=GeneID:65073165;Name=KMD62_gp32;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp32;old_locus_tag=Toil_gp32
+NC_055061.1	RefSeq	CDS	16001	16222	.	+	0	ID=cds-YP_010084128.1;Parent=gene-KMD62_gp32;Dbxref=GenBank:YP_010084128.1,GeneID:65073165;Name=YP_010084128.1;gbkey=CDS;locus_tag=KMD62_gp32;product=hypothetical protein;protein_id=YP_010084128.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	15992	15995	.	+	.	ID=id-KMD62_gp32;Parent=gene-KMD62_gp32;Dbxref=GeneID:65073165;gbkey=regulatory;locus_tag=KMD62_gp32;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	16314	16605	.	+	.	ID=gene-KMD62_gp33;Dbxref=GeneID:65073166;Name=KMD62_gp33;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp33;old_locus_tag=Toil_gp33
+NC_055061.1	RefSeq	CDS	16327	16605	.	+	0	ID=cds-YP_010084129.1;Parent=gene-KMD62_gp33;Dbxref=GenBank:YP_010084129.1,GeneID:65073166;Name=YP_010084129.1;gbkey=CDS;locus_tag=KMD62_gp33;product=hypothetical protein;protein_id=YP_010084129.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	16314	16318	.	+	.	ID=id-KMD62_gp33;Parent=gene-KMD62_gp33;Dbxref=GeneID:65073166;gbkey=regulatory;locus_tag=KMD62_gp33;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	16589	16784	.	+	.	ID=gene-KMD62_gp34;Dbxref=GeneID:65073167;Name=KMD62_gp34;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp34;old_locus_tag=Toil_gp34
+NC_055061.1	RefSeq	CDS	16602	16784	.	+	0	ID=cds-YP_010084130.1;Parent=gene-KMD62_gp34;Dbxref=GenBank:YP_010084130.1,GeneID:65073167;Name=YP_010084130.1;gbkey=CDS;locus_tag=KMD62_gp34;product=hypothetical protein;protein_id=YP_010084130.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	16589	16591	.	+	.	ID=id-KMD62_gp34;Parent=gene-KMD62_gp34;Dbxref=GeneID:65073167;gbkey=regulatory;locus_tag=KMD62_gp34;regulatory_class=ribosome_binding_site
+NC_055061.1	RefSeq	gene	16863	17161	.	+	.	ID=gene-KMD62_gp35;Dbxref=GeneID:65073168;Name=KMD62_gp35;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KMD62_gp35;old_locus_tag=Toil_gp35
+NC_055061.1	RefSeq	CDS	16874	17161	.	+	0	ID=cds-YP_010084131.1;Parent=gene-KMD62_gp35;Dbxref=GenBank:YP_010084131.1,GeneID:65073168;Name=YP_010084131.1;gbkey=CDS;locus_tag=KMD62_gp35;product=hypothetical protein;protein_id=YP_010084131.1;transl_table=11
+NC_055061.1	RefSeq	ribosome_entry_site	16863	16868	.	+	.	ID=id-KMD62_gp35;Parent=gene-KMD62_gp35;Dbxref=GeneID:65073168;gbkey=regulatory;locus_tag=KMD62_gp35;regulatory_class=ribosome_binding_site
+

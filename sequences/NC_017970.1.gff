@@ -1,0 +1,21 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_017970.1 1 10731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=453050
+NC_017970.1	RefSeq	region	1	10731	.	+	.	ID=NC_017970.1:1..10731;Dbxref=taxon:453050;collection-date=2001;country=USA;gbkey=Src;genome=genomic;isolate=GWB-2;mol_type=genomic RNA;nat-host=Ipomoea batatas cv. Beauregard
+NC_017970.1	RefSeq	gene	118	10518	.	+	.	ID=gene-A329_gp1;Dbxref=GeneID:12978759;Name=A329_gp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A329_gp1
+NC_017970.1	RefSeq	CDS	118	10518	.	+	0	ID=cds-YP_006382460.1;Parent=gene-A329_gp1;Dbxref=GenBank:YP_006382460.1,GeneID:12978759;Name=YP_006382460.1;gbkey=CDS;locus_tag=A329_gp1;product=polyprotein;protein_id=YP_006382460.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	118	1971	.	+	.	ID=id-YP_006382460.1:1..618;Parent=cds-YP_006382460.1;gbkey=Prot;product=P1 protein;protein_id=YP_006438188.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	1972	3345	.	+	.	ID=id-YP_006382460.1:619..1076;Parent=cds-YP_006382460.1;gbkey=Prot;product=HC-Pro protein;protein_id=YP_006438189.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	3346	4401	.	+	.	ID=id-YP_006382460.1:1077..1428;Parent=cds-YP_006382460.1;gbkey=Prot;product=P3 protein;protein_id=YP_006438190.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	4402	4557	.	+	.	ID=id-YP_006382460.1:1429..1480;Parent=cds-YP_006382460.1;gbkey=Prot;product=6K1 protein;protein_id=YP_006438191.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	4558	6486	.	+	.	ID=id-YP_006382460.1:1481..2123;Parent=cds-YP_006382460.1;gbkey=Prot;product=CI protein;protein_id=YP_006438192.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	6487	6645	.	+	.	ID=id-YP_006382460.1:2124..2176;Parent=cds-YP_006382460.1;gbkey=Prot;product=6K2 protein;protein_id=YP_006438193.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	6646	7227	.	+	.	ID=id-YP_006382460.1:2177..2370;Parent=cds-YP_006382460.1;gbkey=Prot;product=NIa-VPg protein;protein_id=YP_006438194.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	7228	7956	.	+	.	ID=id-YP_006382460.1:2371..2613;Parent=cds-YP_006382460.1;gbkey=Prot;product=NIa-Pro protein;protein_id=YP_006438195.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	7957	9519	.	+	.	ID=id-YP_006382460.1:2614..3134;Parent=cds-YP_006382460.1;gbkey=Prot;product=NIb protein;protein_id=YP_006438196.1
+NC_017970.1	RefSeq	mature_protein_region_of_CDS	9520	10515	.	+	.	ID=id-YP_006382460.1:3135..3466;Parent=cds-YP_006382460.1;gbkey=Prot;product=coat protein;protein_id=YP_006438197.1
+NC_017970.1	RefSeq	gene	3816	4007	.	+	.	ID=gene-A329_gp2;Dbxref=GeneID:13036848;Name=A329_gp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A329_gp2;partial=true;start_range=.,3816
+NC_017970.1	RefSeq	CDS	3816	4007	.	+	0	ID=cds-YP_006438187.1;Parent=gene-A329_gp2;Dbxref=GenBank:YP_006438187.1,GeneID:13036848;Name=YP_006438187.1;gbkey=CDS;locus_tag=A329_gp2;partial=true;product=PIPO;protein_id=YP_006438187.1;start_range=.,3816
+

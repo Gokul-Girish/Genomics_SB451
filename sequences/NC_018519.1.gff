@@ -1,0 +1,29 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_018519.1 1 17798
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1206566
+NC_018519.1	RefSeq	region	1	17798	.	+	.	ID=NC_018519.1:1..17798;Dbxref=taxon:1206566;collected-by=Masamichi Isogai;country=Japan:Iwate;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Vaccinium corymbosum (highbush blueberry)
+NC_018519.1	RefSeq	gene	116	10847	.	+	.	ID=gene-C194_gp01;Dbxref=GeneID:13520503;Name=C194_gp01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp01
+NC_018519.1	RefSeq	CDS	116	9265	.	+	0	ID=cds-YP_006628167.1;Parent=gene-C194_gp01;Dbxref=GenBank:YP_006628167.1,GeneID:13520503;Name=YP_006628167.1;Note=+1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;locus_tag=C194_gp01;product=ORF 1a/1b fusion polyprotein;protein_id=YP_006628167.1
+NC_018519.1	RefSeq	CDS	9267	10847	.	+	0	ID=cds-YP_006628167.1;Parent=gene-C194_gp01;Dbxref=GenBank:YP_006628167.1,GeneID:13520503;Name=YP_006628167.1;Note=+1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;locus_tag=C194_gp01;product=ORF 1a/1b fusion polyprotein;protein_id=YP_006628167.1
+NC_018519.1	RefSeq	mature_protein_region_of_CDS	9267	10844	.	+	.	ID=id-YP_006628167.1:3051..3576;Note=ORF1b;Parent=cds-YP_006628167.1;gbkey=Prot;product=RNA dependent RNA polymerase;protein_id=YP_006638806.1
+NC_018519.1	RefSeq	gene	116	9268	.	+	.	ID=gene-C194_gp02;Dbxref=GeneID:13520494;Name=C194_gp02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp02
+NC_018519.1	RefSeq	CDS	116	9268	.	+	0	ID=cds-YP_006628168.1;Parent=gene-C194_gp02;Dbxref=GenBank:YP_006628168.1,GeneID:13520494;Name=YP_006628168.1;Note=ORF1a%3B~contains protease%2C methyltransferase and helicase;gbkey=CDS;locus_tag=C194_gp02;product=polyprotein;protein_id=YP_006628168.1
+NC_018519.1	RefSeq	gene	10962	11135	.	+	.	ID=gene-C194_gp03;Dbxref=GeneID:13520495;Name=C194_gp03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp03
+NC_018519.1	RefSeq	CDS	10962	11135	.	+	0	ID=cds-YP_006628169.1;Parent=gene-C194_gp03;Dbxref=GenBank:YP_006628169.1,GeneID:13520495;Name=YP_006628169.1;Note=ORF2;gbkey=CDS;locus_tag=C194_gp03;product=P6 protein;protein_id=YP_006628169.1
+NC_018519.1	RefSeq	gene	11132	12952	.	+	.	ID=gene-C194_gp04;Dbxref=GeneID:13520496;Name=C194_gp04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp04
+NC_018519.1	RefSeq	CDS	11132	12952	.	+	0	ID=cds-YP_006628170.1;Parent=gene-C194_gp04;Dbxref=GenBank:YP_006628170.1,GeneID:13520496;Name=YP_006628170.1;Note=ORF3;gbkey=CDS;locus_tag=C194_gp04;product=heat shock protein 70 homolog;protein_id=YP_006628170.1
+NC_018519.1	RefSeq	gene	12989	14530	.	+	.	ID=gene-C194_gp05;Dbxref=GeneID:13520497;Name=C194_gp05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp05
+NC_018519.1	RefSeq	CDS	12989	14530	.	+	0	ID=cds-YP_006628171.1;Parent=gene-C194_gp05;Dbxref=GenBank:YP_006628171.1,GeneID:13520497;Name=YP_006628171.1;Note=ORF4;gbkey=CDS;locus_tag=C194_gp05;product=coat protein homolog;protein_id=YP_006628171.1
+NC_018519.1	RefSeq	gene	14674	15321	.	+	.	ID=gene-C194_gp06;Dbxref=GeneID:13520498;Name=C194_gp06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp06
+NC_018519.1	RefSeq	CDS	14674	15321	.	+	0	ID=cds-YP_006628172.1;Parent=gene-C194_gp06;Dbxref=GenBank:YP_006628172.1,GeneID:13520498;Name=YP_006628172.1;Note=ORF5;gbkey=CDS;locus_tag=C194_gp06;product=coat protein;protein_id=YP_006628172.1
+NC_018519.1	RefSeq	gene	15380	15997	.	+	.	ID=gene-C194_gp07;Dbxref=GeneID:13520499;Name=C194_gp07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp07
+NC_018519.1	RefSeq	CDS	15380	15997	.	+	0	ID=cds-YP_006628173.1;Parent=gene-C194_gp07;Dbxref=GenBank:YP_006628173.1,GeneID:13520499;Name=YP_006628173.1;Note=ORF6;gbkey=CDS;locus_tag=C194_gp07;product=p23 protein;protein_id=YP_006628173.1
+NC_018519.1	RefSeq	gene	16424	17170	.	+	.	ID=gene-C194_gp08;Dbxref=GeneID:13520500;Name=C194_gp08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp08
+NC_018519.1	RefSeq	CDS	16424	17170	.	+	0	ID=cds-YP_006628174.1;Parent=gene-C194_gp08;Dbxref=GenBank:YP_006628174.1,GeneID:13520500;Name=YP_006628174.1;Note=ORF7;gbkey=CDS;locus_tag=C194_gp08;product=p28 protein;protein_id=YP_006628174.1
+NC_018519.1	RefSeq	gene	17161	17337	.	+	.	ID=gene-C194_gp09;Dbxref=GeneID:13520501;Name=C194_gp09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp09
+NC_018519.1	RefSeq	CDS	17161	17337	.	+	0	ID=cds-YP_006628175.1;Parent=gene-C194_gp09;Dbxref=GenBank:YP_006628175.1,GeneID:13520501;Name=YP_006628175.1;Note=ORF8;gbkey=CDS;locus_tag=C194_gp09;product=p7 protein;protein_id=YP_006628175.1
+NC_018519.1	RefSeq	gene	17346	17621	.	+	.	ID=gene-C194_gp10;Dbxref=GeneID:13520502;Name=C194_gp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C194_gp10
+NC_018519.1	RefSeq	CDS	17346	17621	.	+	0	ID=cds-YP_006628176.1;Parent=gene-C194_gp10;Dbxref=GenBank:YP_006628176.1,GeneID:13520502;Name=YP_006628176.1;Note=ORF9;gbkey=CDS;locus_tag=C194_gp10;product=p11 protein;protein_id=YP_006628176.1
+

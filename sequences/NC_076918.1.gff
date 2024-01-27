@@ -1,0 +1,13 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_076918.1 1 6632
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1216472
+NC_076918.1	RefSeq	region	1	6632	.	+	.	ID=NC_076918.1:1..6632;Dbxref=taxon:1216472;collection-date=2016;country=Peru;gbkey=Src;genome=genomic;isolate=DesRot/Peru/API17_F_DrHEV;mol_type=genomic RNA;nat-host=Desmodus rotundus;old-name=Bat hepevirus
+NC_076918.1	RefSeq	gene	13	4701	.	+	.	ID=gene-QKS98_gp1;Dbxref=GeneID:80539579;Name=ORF1;gbkey=Gene;gene=ORF1;gene_biotype=protein_coding;locus_tag=QKS98_gp1
+NC_076918.1	RefSeq	CDS	13	4701	.	+	0	ID=cds-YP_010800917.1;Parent=gene-QKS98_gp1;Dbxref=GenBank:YP_010800917.1,GeneID:80539579;Name=YP_010800917.1;gbkey=CDS;gene=ORF1;locus_tag=QKS98_gp1;product=nonstructural protein;protein_id=YP_010800917.1
+NC_076918.1	RefSeq	gene	4732	6555	.	+	.	ID=gene-QKS98_gp2;Dbxref=GeneID:80539577;Name=ORF2;gbkey=Gene;gene=ORF2;gene_biotype=protein_coding;locus_tag=QKS98_gp2
+NC_076918.1	RefSeq	CDS	4732	6555	.	+	0	ID=cds-YP_010800918.1;Parent=gene-QKS98_gp2;Dbxref=GenBank:YP_010800918.1,GeneID:80539577;Name=YP_010800918.1;gbkey=CDS;gene=ORF2;locus_tag=QKS98_gp2;product=capsid protein;protein_id=YP_010800918.1
+NC_076918.1	RefSeq	gene	4739	5179	.	+	.	ID=gene-QKS98_gp3;Dbxref=GeneID:80539578;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding;locus_tag=QKS98_gp3
+NC_076918.1	RefSeq	CDS	4739	5179	.	+	0	ID=cds-YP_010800919.1;Parent=gene-QKS98_gp3;Dbxref=GenBank:YP_010800919.1,GeneID:80539578;Name=YP_010800919.1;gbkey=CDS;gene=ORF3;locus_tag=QKS98_gp3;product=hypothetical protein;protein_id=YP_010800919.1
+

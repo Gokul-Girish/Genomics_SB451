@@ -1,0 +1,12 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_003555.1 1 6277
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29255
+NC_003555.1	RefSeq	region	1	6277	.	+	.	ID=NC_003555.1:1..6277;Dbxref=taxon:29255;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Giardia lamblia Portland 1
+NC_003555.1	RefSeq	gene	367	5978	.	+	.	ID=gene-GLVgp1;Dbxref=GeneID:940171;Name=GLVgp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GLVgp1
+NC_003555.1	RefSeq	CDS	367	2805	.	+	0	ID=cds-NP_620070.1;Parent=gene-GLVgp1;Dbxref=GenBank:NP_620070.1,GeneID:940171;Name=NP_620070.1;exception=artificial frameshift;gbkey=CDS;locus_tag=GLVgp1;product=gag-pol fusion protein;protein_id=NP_620070.1
+NC_003555.1	RefSeq	CDS	2805	5978	.	+	0	ID=cds-NP_620070.1;Parent=gene-GLVgp1;Dbxref=GenBank:NP_620070.1,GeneID:940171;Name=NP_620070.1;exception=artificial frameshift;gbkey=CDS;locus_tag=GLVgp1;product=gag-pol fusion protein;protein_id=NP_620070.1
+NC_003555.1	RefSeq	gene	367	3027	.	+	.	ID=gene-GLVgp2;Dbxref=GeneID:940170;Name=GLVgp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GLVgp2
+NC_003555.1	RefSeq	CDS	367	3027	.	+	0	ID=cds-NP_619551.1;Parent=gene-GLVgp2;Dbxref=GenBank:NP_619551.1,GeneID:940170;Name=NP_619551.1;Note=ORF1;gbkey=CDS;locus_tag=GLVgp2;product=capsid protein;protein_id=NP_619551.1
+
